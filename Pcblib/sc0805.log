@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SC0805.dra                                    )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Thu Aug 30 15:55:11 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = sc0805.psm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

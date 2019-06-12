@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SOT23.dra                                     )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Wed Sep 12 14:42:34 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Sep 12 14:42:34 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/workspace/Cadence/CadenceLib/Pcblib/SOT23.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/workspace/Cadence/CadenceLib/Pcblib/ 
+
+PADPATH =  E:/workspace/Cadence/CadenceLib/Pcblib/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_C0_5_MM'  pad stack refresh starting.
+
+     'SMD_C0_5_MM'  pad stack refreshed successfully.
+     
+'SMD_R31X35_MIL'  pad stack refresh starting.
+
+     'SMD_R31X35_MIL'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

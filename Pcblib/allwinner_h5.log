@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Allwinner_H5.dra                              )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Thu Sep 20 15:07:36 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = allwinner_h5.psm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

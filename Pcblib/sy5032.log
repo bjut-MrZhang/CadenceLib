@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SY5032.dra                                    )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Dec 03 15:25:53 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = sy5032.psm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

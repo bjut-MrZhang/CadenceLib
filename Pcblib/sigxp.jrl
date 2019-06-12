@@ -1,0 +1,182 @@
+\t (00:00:00) sigxp 16.6-2015 S057 (v16-6-112EL) Windows 32
+\t (00:00:00)     Journal start - Fri Aug 31 10:49:50 2018
+\t (00:00:00)         Host=HTTR-PC User=httr Pid=8156 CPUs=8
+\t (00:00:00) CmdLine= sigxp -spawn -p E:\workspace\Cadence\CadenceLib\Pcblib
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:01) trapsize 1718
+\i (00:00:01) trapsize 1638
+\i (00:00:01) trapsize 1733
+\i (00:00:01) trapsize 1959
+\i (00:00:01) trapsize 1885
+\i (00:00:01) trapsize 1941
+\i (00:00:01) trapsize 1941
+\i (00:00:02) trapsize 9874
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 9874
+\i (00:00:02) trapsize 9874
+\i (00:00:02) trapsize 9874
+\i (00:00:02) trapsize 36
+   (00:00:02) Loading sigxp.cxt 
+   (00:00:02) Loading signal.cxt 
+   (00:00:02) Loading sxutil.cxt 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) Loading skillExt.cxt 
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:00:03) Loading fputil.cxt 
+\i (00:00:03) sigxp background 
+\i (00:00:13) trapsize 22
+\i (00:00:34) quickaddpart 38926 
+\i (00:00:35) pick grid 5489.49 4248.25
+\t (00:00:35) last pick:  5489.50 4248.50
+\i (00:00:35) sigxp background 
+\i (00:00:40) quickaddpart 38925 
+\i (00:00:46) prepopup 5485.86 4244.23
+\i (00:00:47) pop Cancel 
+\i (00:00:47) sigxp background 
+\i (00:00:51) quickaddpart 38927 
+\i (00:00:53) pick grid 5503.74 4248.34
+\t (00:00:53) last pick:  5503.50 4248.50
+\i (00:00:53) sigxp background 
+\i (00:01:00) quickaddpart 38917 
+\i (00:01:01) pick grid 5495.96 4242.17
+\t (00:01:01) last pick:  5496.00 4242.00
+\i (00:01:01) sigxp background 
+\i (00:01:02) drag_start grid 5505.19 4248.42
+\i (00:01:03) drag_stop grid 5511.88 4249.43
+\i (00:01:04) drag_start grid 5495.57 4241.69
+\i (00:01:05) drag_stop grid 5499.55 4248.16
+\i (00:01:06) drag_start grid 5511.00 4248.69
+\i (00:01:07) drag_stop grid 5512.01 4247.55
+\i (00:01:31) drag_start grid 5499.59 4248.38
+\i (00:01:32) drag_stop grid 5494.34 4248.25
+\i (00:01:33) drag_start grid 5494.52 4248.29
+\i (00:01:33) drag_stop grid 5498.58 4248.29
+\i (00:02:19) pick grid 5508.07 4241.34
+\t (00:02:19) last pick:  5508.00 4241.50
+\i (00:02:26) pick grid 5501.82 4248.69
+\t (00:02:26) last pick:  5502.00 4248.50
+\i (00:02:27) pick grid 5510.00 4248.56
+\t (00:02:27) last pick:  5510.00 4248.50
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow sigxp
+\i (00:02:31) zoom out 5500.29 4243.18
+\i (00:02:31) trapsize 44
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow sigxp
+\i (00:02:31) zoom in 5508.16 4249.12
+\i (00:02:31) trapsize 22
+\i (00:02:42) pick grid 5488.18 4247.85
+\t (00:02:42) last pick:  5488.00 4248.00
+\i (00:02:42) prepopup 5488.23 4247.90
+\i (00:02:49) pop dyn_option_select @:@Stimulus@:@Pulse 
+\i (00:02:58) prepopup 5488.88 4248.95
+\i (00:03:00) pop dyn_option_select @:@Stimulus@:@Custom... 
+\i (00:03:04) drag_start grid 5521.02 4245.45
+\i (00:03:05) drag_stop grid 5521.11 4244.53
+\i (00:03:10) pick grid 5504.97 4251.13
+\t (00:03:10) last pick:  5505.00 4251.00
+\i (00:03:12) setwindow form.sxstimulus
+\i (00:03:12) FORM sxstimulus ok  
+\i (00:03:23) setwindow sigxp
+\i (00:03:23) signal simulate 
+\i (00:03:30) sigxp background 
+\i (00:06:11) pick grid 5489.06 4248.55
+\t (00:06:11) last pick:  5489.00 4248.50
+\i (00:06:11) prepopup 5489.06 4248.55
+\i (00:06:13) prepopup 5488.01 4248.42
+\i (00:06:15) pop dyn_option_select @:@Stimulus@:@Custom... 
+\i (00:06:19) setwindow form.sxstimulus
+\i (00:06:19) FORM sxstimulus apply  
+\i (00:06:20) FORM sxstimulus ok  
+\i (00:06:26) setwindow sigxp
+\i (00:06:26) sxconstraints 
+\i (00:06:30) setwindow form.sxconstraint
+\i (00:06:30) FORM sxconstraint done  
+\i (00:06:30) setwindow sigxp
+\i (00:06:30) sigxp background 
+\i (00:06:34) signoise options 
+\i (00:06:34) sigxp background 
+\i (00:06:40) setwindow form.sigxpopts
+\i (00:06:40) FORM sigxpopts pulseclockfrequency 500MHz 
+\i (00:06:41) FORM sigxpopts ok  
+\i (00:06:43) setwindow sigxp
+\i (00:06:43) signal simulate 
+\w (00:06:43) Rise edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+\w (00:06:43) Fall edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+\i (00:06:45) sigxp background 
+\i (00:06:49) setwindow text
+\i (00:06:49) close 
+\i (00:07:08) setwindow sigxp
+\i (00:07:08) signoise options 
+\i (00:07:08) sigxp background 
+\i (00:07:10) setwindow form.sigxpopts
+\i (00:07:10) FORM sigxpopts measmodestab  
+\i (00:07:11) FORM sigxpopts simulparamtab  
+\i (00:08:04) FORM sigxpopts fixeddurationtime 60ns 
+\i (00:08:05) FORM sigxpopts ok  
+\i (00:08:35) setwindow sigxp
+\i (00:08:35) signoise options 
+\i (00:08:35) sigxp background 
+\i (00:08:37) setwindow form.sigxpopts
+\i (00:08:37) FORM sigxpopts simulmodestab  
+\i (00:08:38) FORM sigxpopts measmodestab  
+\i (00:08:39) FORM sigxpopts sparamtab  
+\i (00:08:40) FORM sigxpopts simulmodestab  
+\i (00:08:41) FORM sigxpopts simulparamtab  
+\i (00:08:42) FORM sigxpopts pulsestimultab  
+\i (00:08:47) FORM sigxpopts pulsecyclecount 5 
+\i (00:08:47) FORM sigxpopts ok  
+\i (00:08:50) fillin yes 
+\i (00:08:53) setwindow sigxp
+\i (00:08:53) signal simulate 
+\w (00:08:53) Rise edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+\w (00:08:53) Fall edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+\i (00:08:56) sigxp background 
+\i (00:09:42) setwindow text
+\i (00:09:42) close 
+\i (00:09:44) setwindow sigxp
+\i (00:09:44) signoise options 
+\i (00:09:44) sigxp background 
+\i (00:09:47) setwindow form.sigxpopts
+\i (00:09:47) FORM sigxpopts pulseclockfrequency 200MHz 
+\i (00:09:47) FORM sigxpopts ok  
+\i (00:09:49) setwindow sigxp
+\i (00:09:49) signal simulate 
+\i (00:09:52) sigxp background 
+\i (00:10:02) pick grid 5498.19 4248.60
+\t (00:10:02) last pick:  5498.00 4248.50
+\i (00:10:02) pick grid dbl 5498.19 4248.60
+\t (00:10:02) last pick:  5498.00 4248.50
+\i (00:10:03) pick grid 5498.98 4250.08
+\t (00:10:03) last pick:  5499.00 4250.00
+\i (00:10:07) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:10:08) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:10:08) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:10:12) spreadsheet Parameters STORE CIRCUIT.DESIGN.TL1.impedance VALUE "20 ohm"
+\i (00:10:12) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.propDelay VALUE
+\i (00:10:14) pick grid 5512.80 4242.56
+\t (00:10:14) last pick:  5513.00 4242.50
+\i (00:10:18) signal simulate 
+\i (00:10:22) sigxp background 
+\i (00:10:32) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.propDelay VALUE
+\i (00:10:34) spreadsheet Parameters STORE CIRCUIT.DESIGN.TL1.propDelay VALUE "0.1 ns"
+\i (00:10:36) signal simulate 
+\i (00:10:40) sigxp background 
+\i (00:10:44) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.propDelay VALUE
+\i (00:10:48) spreadsheet Parameters STORE CIRCUIT.DESIGN.TL1.propDelay VALUE "0.5 ns"
+\i (00:10:48) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:10:50) spreadsheet Parameters STORE CIRCUIT.DESIGN.TL1.impedance VALUE "260 ohm"
+\i (00:10:53) signal simulate 
+\i (00:10:56) sigxp background 
+\i (00:11:01) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:11:04) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.TL1.impedance VALUE
+\i (00:11:09) spreadsheet Parameters STORE CIRCUIT.DESIGN.TL1.impedance VALUE "60"
+\i (00:11:11) signal simulate 
+\i (00:11:15) sigxp background 
+\i (04:16:08) exit 
+\e (04:16:08) Would you like to save the changes made in  unnamed.top
+\t (04:16:13) Autosaving before quiting editor, please wait...
+\t (04:16:13)     Journal end - Fri Aug 31 15:06:03 2018

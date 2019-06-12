@@ -1,0 +1,141 @@
+\t (00:11:37) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:11:37)     Journal start - Thu Feb 21 14:21:21 2019
+\t (00:11:37)         Host=DESKTOP-AH2D8O3 User=AD Pid=668 CPUs=4
+\t (00:11:37) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:11:37) 
+\d (00:11:37) Design opened: F:/Workspace/Cadence/CadenceLib/Pcblib/SC0201.dra
+\i (00:11:38) generaledit 
+\i (00:11:38) zoom in 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom in -18.75 -23.25
+\i (00:11:38) trapsize 375
+\i (00:11:39) zoom in 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom in 3.75 -8.99
+\i (00:11:39) trapsize 188
+\i (00:11:39) zoom in 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom in -1.87 -1.87
+\i (00:11:39) trapsize 94
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in -1.87 -1.87
+\i (00:11:40) trapsize 47
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in -7.50 -3.46
+\i (00:11:40) trapsize 23
+\i (00:11:41) zoom in 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom in -7.50 -3.41
+\i (00:11:41) trapsize 12
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out -12.35 -4.42
+\i (00:11:41) trapsize 23
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out -12.35 -4.51
+\i (00:11:41) trapsize 47
+\i (00:11:42) pick grid 10.16 -14.92
+\t (00:11:42) last pick:  0.00 0.00
+\i (00:11:42) zoom out 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom out 10.16 -14.92
+\i (00:11:42) trapsize 94
+\i (00:11:47) color192 
+\i (00:11:48) setwindow cvf.dialog
+\i (00:11:48) cvf layer_mode
+\i (00:11:48) setwindow pcb
+\i (00:11:48) generaledit 
+\i (00:11:50) setwindow cvf.dialog
+\i (00:11:50) cvf layer_tree_item 'Package Geometry'
+\i (00:11:58) cvf global_invisible
+\i (00:12:00) cvf apply
+\i (00:12:01) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:12:02) cvf apply
+\i (00:12:03) cvf okay
+\i (00:12:04) setwindow pcb
+\i (00:12:04) pick grid 35.30 -2.54
+\t (00:12:04) last pick:  0.00 0.00
+\i (00:12:07) color192 
+\i (00:12:07) setwindow cvf.dialog
+\i (00:12:07) cvf layer_mode
+\i (00:12:07) setwindow pcb
+\i (00:12:07) generaledit 
+\i (00:12:09) setwindow cvf.dialog
+\i (00:12:09) cvf global_visible
+\i (00:12:12) cvf apply
+\i (00:12:12) cvf okay
+\i (00:12:13) setwindow pcb
+\i (00:12:13) pick grid 43.36 -0.10
+\t (00:12:13) last pick:  0.00 0.00
+\i (00:12:13) zoom in 1 
+\i (00:12:13) setwindow pcb
+\i (00:12:13) zoom in 7.73 7.03
+\i (00:12:13) trapsize 47
+\i (00:12:14) zoom in 1 
+\i (00:12:14) setwindow pcb
+\i (00:12:14) zoom in 2.77 3.10
+\i (00:12:14) trapsize 23
+\i (00:12:14) zoom out 1 
+\i (00:12:14) setwindow pcb
+\i (00:12:14) zoom out 2.91 2.73
+\i (00:12:14) trapsize 47
+\i (00:12:14) zoom out 1 
+\i (00:12:14) setwindow pcb
+\i (00:12:14) zoom out 3.20 2.73
+\i (00:12:14) trapsize 94
+\i (00:12:16) drag_start grid 0.57 46.23
+\i (00:12:16) move 
+\t (00:12:16) last pick:  -50.00 25.00
+\t (00:12:16) Pick new location for the element(s).
+\i (00:12:17) drag_stop grid 8.45 37.04
+\i (00:12:17) generaledit 
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out 8.45 37.04
+\i (00:12:18) trapsize 188
+\i (00:12:19) drag_start grid -55.32 29.54
+\i (00:12:19) move 
+\t (00:12:19) last pick:  -75.00 25.00
+\t (00:12:19) Pick new location for the element(s).
+\i (00:12:19) drag_stop grid -62.45 87.68
+\i (00:12:19) generaledit 
+\i (00:12:20) drag_start grid -6.18 40.05
+\i (00:12:20) move 
+\t (00:12:20) last pick:  -50.00 25.00
+\t (00:12:20) Pick new location for the element(s).
+\i (00:12:21) drag_stop grid -67.70 -60.85
+\i (00:12:21) generaledit 
+\i (00:12:21) drag_start grid 71.09 22.04
+\i (00:12:21) move 
+\t (00:12:22) last pick:  0.00 0.00
+\t (00:12:22) Pick new location for the element(s).
+\i (00:12:22) drag_stop grid 98.84 -39.85
+\i (00:12:22) generaledit 
+\i (00:12:22) drag_start grid 38.08 35.17
+\i (00:12:23) move 
+\t (00:12:23) last pick:  -50.00 25.00
+\t (00:12:23) Pick new location for the element(s).
+\i (00:12:24) drag_stop grid 99.59 -63.85
+\i (00:12:24) generaledit 
+\i (00:12:30) pick grid -25.69 -28.97
+\t (00:12:30) last pick:  0.00 0.00
+\e (00:12:51) Command not found: xhilite
+\i (00:12:51) xname_flush 
+\i (00:12:51) done 
+\i (00:12:51) generaledit 
+\i (00:13:49) open 
+\e (00:13:49) Do you want to save the changes you made to SC0201.dra?
+\i (00:13:50) fillin no 
+\i (00:13:59) fillin "F:\Workspace\Cadence\TestFootprint\PCB\TestFootprint.brd"
+\i (00:13:59) cd "F:\Workspace\Cadence\TestFootprint\PCB"
+\t (00:13:59) Opening existing design...
+\i (00:13:59) trapsize 145
+\i (00:13:59) trapsize 142
+\i (00:13:59) trapsize 145
+\i (00:13:59) trapsize 146
+\i (00:14:00) trapsize 195
+\i (00:14:00) trapsize 195
+\t (00:14:00)     Journal end - Thu Feb 21 14:23:44 2019

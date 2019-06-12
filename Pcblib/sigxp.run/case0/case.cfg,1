@@ -1,0 +1,4 @@
+(SISGlobals 
+ (PulseClockFrequency 500MHz ) 
+ (FixedDurationTime 60ns ) 
+ (PulseCycleCount 5 ) ) 

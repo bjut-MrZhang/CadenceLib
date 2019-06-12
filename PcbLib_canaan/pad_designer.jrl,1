@@ -1,0 +1,10 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Fri Feb 22 18:10:58 2019
+\t (00:00:00)         Host=DESKTOP-AH2D8O3 User=AD Pid=19380 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:15) fillin "F:\Workspace\Cadence\lib\LXG-LIB\pad40cir60d.pad"
+\i (00:00:15) cd "F:\Workspace\Cadence\lib\LXG-LIB"
+\t (00:00:15)     Journal end - Fri Feb 22 18:11:14 2019

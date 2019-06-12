@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tr_c35xs80_mil.dra                            )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Thu Aug 30 11:17:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FLASH
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = tr_c35xs80_mil.fsm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

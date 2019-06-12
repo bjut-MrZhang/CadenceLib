@@ -1,0 +1,1445 @@
+\t (00:06:52) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:06:52)     Journal start - Fri Mar 22 09:57:21 2019
+\t (00:06:52)         Host=DESKTOP-9BCR1L6 User=ZhangXin Pid=788 CPUs=4
+\t (00:06:52) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:06:52) 
+\d (00:06:52) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn32-050-0505-010-n.dra
+\i (00:06:52) generaledit 
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -84.06 59.15
+\i (00:06:53) trapsize 519
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -458.68 59.16
+\i (00:06:53) trapsize 259
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -458.68 59.16
+\i (00:06:53) trapsize 130
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -458.67 59.17
+\i (00:06:53) trapsize 65
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -458.67 59.17
+\i (00:06:53) trapsize 32
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -458.67 59.17
+\i (00:06:53) trapsize 16
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -456.43 59.85
+\i (00:06:54) trapsize 32
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -456.42 59.99
+\i (00:06:54) trapsize 65
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -456.29 59.99
+\i (00:06:54) trapsize 130
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -454.74 60.25
+\i (00:06:54) trapsize 259
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -453.69 60.26
+\i (00:06:54) trapsize 519
+\i (00:06:55) zoom in 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom in 120.40 26.02
+\i (00:06:55) trapsize 259
+\i (00:06:55) zoom in 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom in 120.40 26.02
+\i (00:06:55) trapsize 130
+\i (00:06:56) zoom out 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom out 120.40 26.02
+\i (00:06:56) trapsize 259
+\i (00:07:15) show measure 
+\i (00:07:16) pick grid 98.62 99.71
+\t (00:07:16) last pick:  100.00 100.00
+\i (00:07:20) pick grid 98.10 -99.54
+\t (00:07:20) last pick:  100.00 -100.00
+\i (00:07:56) enved 
+\i (00:08:02) setwindow form.prfedit
+\i (00:08:02) FORM prfedit treelist  General Display 
+\i (00:08:02) FORM prfedit treelist  Element Display 
+\i (00:08:05) FORM prfedit showmeasure_altunits millimeters 
+\i (00:08:06) FORM prfedit favorite.showmeasure_altunits YES 
+\i (00:08:08) FORM prfedit apply  
+\i (00:08:09) FORM prfedit done  
+\i (00:08:11) setwindow pcb
+\i (00:08:11) pick grid 98.10 100.75
+\t (00:08:11) last pick:  100.00 100.00
+\i (00:08:12) pick grid 98.62 -100.06
+\t (00:08:12) last pick:  100.00 -100.00
+\i (00:08:15) setwindow text
+\i (00:08:15) close 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) pick grid 101.73 29.66
+\t (00:08:18) last pick:  100.00 25.00
+\i (00:08:19) pick grid 99.14 10.98
+\t (00:08:19) last pick:  100.00 0.00
+\i (00:08:22) setwindow text
+\i (00:08:22) close 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) pick grid 475.85 -6.66
+\t (00:08:27) last pick:  475.00 0.00
+\i (00:08:28) Esc 
+\i (00:08:28) Esc 
+\i (00:08:28) Esc 
+\i (00:08:28) Esc 
+\i (00:08:29) Esc 
+\i (00:08:29) setwindow text
+\i (00:08:29) close 
+\i (00:08:29) setwindow pcb
+\i (00:08:29) Esc 
+\i (00:08:30) Esc 
+\i (00:08:30) Esc 
+\i (00:08:31) setwindow text
+\i (00:08:31) close 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) pick grid 207.58 20.32
+\t (00:08:58) last pick:  200.00 25.00
+\i (00:08:59) Esc 
+\i (00:08:59) Esc 
+\i (00:09:00) zoom out 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom out 192.54 18.76
+\i (00:09:00) trapsize 519
+\i (00:09:01) zoom in 1 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom in 75.78 51.98
+\i (00:09:01) trapsize 259
+\i (00:09:01) zoom in 1 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom in 75.78 51.98
+\i (00:09:01) trapsize 130
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 16.63 59.25
+\i (00:09:02) trapsize 259
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 16.62 59.25
+\i (00:09:02) trapsize 519
+\i (00:09:03) zoom in 1 
+\i (00:09:03) setwindow pcb
+\i (00:09:03) zoom in -160.83 59.24
+\i (00:09:03) trapsize 259
+\i (00:09:03) zoom out 1 
+\i (00:09:03) setwindow pcb
+\i (00:09:03) zoom out -12.43 43.68
+\i (00:09:03) trapsize 519
+\i (00:09:04) zoom in 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom in 187.86 31.23
+\i (00:09:04) trapsize 259
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 14.03 8.92
+\i (00:09:06) trapsize 130
+\i (00:09:07) zoom out 1 
+\i (00:09:07) setwindow pcb
+\i (00:09:07) zoom out 14.55 8.93
+\i (00:09:07) trapsize 259
+\i (00:09:07) zoom in 1 
+\i (00:09:07) setwindow pcb
+\i (00:09:07) zoom in 14.56 8.92
+\i (00:09:07) trapsize 130
+\i (00:09:08) zoom out 1 
+\i (00:09:08) setwindow pcb
+\i (00:09:08) zoom out 14.56 8.93
+\i (00:09:08) trapsize 259
+\i (00:09:09) Esc 
+\i (00:09:15) zoom in 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 58.68 4.25
+\i (00:09:15) trapsize 130
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 58.68 4.25
+\i (00:09:16) trapsize 259
+\i (00:09:19) add pin 
+\i (00:09:28) trapsize 299
+\i (00:09:36) setwindow form.mini
+\i (00:09:36) FORM mini pintype_mechanical YES 
+\i (00:09:37) FORM mini pad_browse  
+\i (00:09:56) fillin "Via_Fcu"
+\w (00:09:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:09:56) Using 'VIA_FCU.pad'.
+\i (00:10:00) setwindow pcb
+\i (00:10:00) pick grid -48.53 36.93
+\t (00:10:00) last pick:  -50.00 25.00
+\t (00:10:00) Using 'VIA_FCU.pad'.
+\i (00:10:01) pick grid -12.02 28.55
+\t (00:10:01) last pick:  0.00 25.00
+\t (00:10:01) Using 'VIA_FCU.pad'.
+\i (00:10:02) pick grid 12.52 27.35
+\t (00:10:02) last pick:  25.00 25.00
+\t (00:10:02) Using 'VIA_FCU.pad'.
+\i (00:10:02) pick grid -39.55 1.02
+\t (00:10:02) last pick:  -50.00 0.00
+\t (00:10:02) Using 'VIA_FCU.pad'.
+\i (00:10:03) pick grid -10.23 -9.15
+\t (00:10:03) last pick:  0.00 0.00
+\t (00:10:03) Using 'VIA_FCU.pad'.
+\i (00:10:03) pick grid 38.25 -9.15
+\t (00:10:03) last pick:  50.00 0.00
+\t (00:10:03) Using 'VIA_FCU.pad'.
+\i (00:10:03) pick grid -41.94 -38.48
+\t (00:10:03) last pick:  -50.00 -50.00
+\t (00:10:03) Using 'VIA_FCU.pad'.
+\i (00:10:04) pick grid -12.02 -37.88
+\t (00:10:04) last pick:  0.00 -50.00
+\t (00:10:04) Using 'VIA_FCU.pad'.
+\i (00:10:05) pick grid 37.65 -39.67
+\t (00:10:05) last pick:  50.00 -50.00
+\t (00:10:05) Using 'VIA_FCU.pad'.
+\i (00:10:06) Esc 
+\w (00:10:06) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:06) Esc 
+\w (00:10:06) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:06) Esc 
+\w (00:10:06) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:07) pick grid 166.32 4.61
+\t (00:10:07) last pick:  175.00 0.00
+\t (00:10:07) Using 'VIA_FCU.pad'.
+\i (00:10:08) Esc 
+\w (00:10:08) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:08) Esc 
+\w (00:10:08) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:08) Esc 
+\w (00:10:08) WARNING(SPMHA1-314): Illegal event.
+\i (00:10:08) prepopup 211.80 11.79
+\i (00:10:09) done 
+\t (00:10:09) Exiting from Add Pin.
+\i (00:10:09) generaledit 
+\i (00:10:10) pick grid 204.62 18.97
+\t (00:10:10) last pick:  200.00 25.00
+\i (00:10:11) pick grid 183.08 32.14
+\t (00:10:11) last pick:  175.00 25.00
+\i (00:10:12) zoom in 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom in 4.14 -3.17
+\i (00:10:12) trapsize 150
+\i (00:10:12) zoom in 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom in 2.04 -2.27
+\i (00:10:12) trapsize 75
+\i (00:10:12) zoom in 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom in 2.04 -2.27
+\i (00:10:12) trapsize 37
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 0.18 0.57
+\i (00:10:15) trapsize 75
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 0.17 0.57
+\i (00:10:15) trapsize 150
+\i (00:10:16) undo 
+\i (00:10:16) generaledit 
+\i (00:10:16) undo 
+\i (00:10:16) generaledit 
+\i (00:10:17) undo 
+\i (00:10:17) generaledit 
+\i (00:10:17) undo 
+\i (00:10:17) generaledit 
+\i (00:10:17) undo 
+\i (00:10:17) generaledit 
+\i (00:10:18) pick grid 176.12 1.18
+\t (00:10:18) last pick:  175.00 0.00
+\e (00:10:18) Command not found: Del
+\i (00:10:20) pick grid 183.30 -6.90
+\t (00:10:20) last pick:  175.00 0.00
+\e (00:10:20) Command not found: Del
+\i (00:10:22) pick grid 174.02 0.28
+\t (00:10:22) last pick:  175.00 0.00
+\i (00:10:22) pick grid dbl 174.02 0.28
+\t (00:10:22) last pick:  175.00 0.00
+\i (00:10:22) pick grid 174.02 0.58
+\t (00:10:22) last pick:  175.00 0.00
+\i (00:10:22) pick grid dbl 174.02 0.58
+\t (00:10:22) last pick:  175.00 0.00
+\i (00:10:23) pick grid 174.02 1.48
+\t (00:10:23) last pick:  175.00 0.00
+\e (00:10:23) Command not found: Del
+\i (00:10:26) trapsize 147
+\i (00:10:33) trapsize 173
+\i (00:10:36) setwindow form.find
+\i (00:10:36) FORM find all_off  
+\i (00:10:38) FORM find vias YES 
+\i (00:10:38) setwindow pcb
+\i (00:10:38) pick grid 172.15 4.17
+\t (00:10:38) last pick:  175.00 0.00
+\i (00:10:39) pick grid 179.76 1.75
+\t (00:10:39) last pick:  175.00 0.00
+\i (00:10:40) pick grid 176.30 0.03
+\t (00:10:40) last pick:  175.00 0.00
+\e (00:10:40) Command not found: Del
+\i (00:10:41) pick grid 174.57 -2.40
+\t (00:10:41) last pick:  175.00 0.00
+\i (00:10:41) pick grid 174.57 0.03
+\t (00:10:41) last pick:  175.00 0.00
+\i (00:10:41) pick grid dbl 174.57 0.03
+\t (00:10:41) last pick:  175.00 0.00
+\i (00:10:41) pick grid 174.57 0.03
+\t (00:10:41) last pick:  175.00 0.00
+\i (00:10:42) pick grid 174.23 -2.74
+\t (00:10:42) last pick:  175.00 0.00
+\i (00:10:42) pick grid 175.26 0.03
+\t (00:10:42) last pick:  175.00 0.00
+\i (00:10:42) drag_start grid 189.79 -4.47
+\i (00:10:43) drag_stop 165.58 18.01
+\i (00:10:47) open 
+\e (00:10:47) Do you want to save the changes you made to qfn32-050-0505-010-n.dra?
+\i (00:10:48) fillin no 
+\i (00:11:06) fillin "menu_cancel"
+\i (00:11:06) generaledit 
+\i (00:11:33) zoom out 1 
+\i (00:11:33) setwindow pcb
+\i (00:11:33) zoom out 118.21 5.21
+\i (00:11:33) trapsize 346
+\i (00:11:33) zoom out 1 
+\i (00:11:33) setwindow pcb
+\i (00:11:33) zoom out 118.21 5.21
+\i (00:11:33) trapsize 692
+\i (00:11:35) open 
+\e (00:11:35) Do you want to save the changes you made to qfn32-050-0505-010-n.dra?
+\i (00:11:36) fillin no 
+\i (00:11:47) fillin "qfn32-050-0505-010-n.dra"
+\t (00:11:47) Opening existing design...
+\i (00:11:48) trapsize 1038
+\d (00:11:48) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn32-050-0505-010-n.dra
+\i (00:11:48) generaledit 
+\i (00:11:49) zoom in 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom in 28.02 7.26
+\i (00:11:49) trapsize 519
+\i (00:11:49) zoom in 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom in -176.41 7.26
+\i (00:11:49) trapsize 259
+\i (00:11:49) zoom in 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom in 14.02 -0.52
+\i (00:11:49) trapsize 130
+\i (00:11:50) zoom in 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom in -98.58 -26.98
+\i (00:11:50) trapsize 65
+\i (00:11:50) zoom in 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom in -98.58 -27.24
+\i (00:11:50) trapsize 32
+\i (00:11:51) zoom out 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom out -101.50 -27.05
+\i (00:11:51) trapsize 65
+\i (00:11:51) zoom out 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom out -103.57 -26.14
+\i (00:11:51) trapsize 130
+\i (00:11:51) zoom out 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom out -103.58 -25.61
+\i (00:11:51) trapsize 259
+\i (00:11:52) zoom in 1 
+\i (00:11:52) setwindow pcb
+\i (00:11:52) zoom in -48.57 -6.41
+\i (00:11:52) trapsize 130
+\i (00:11:54) show element 
+\i (00:11:55) pick grid 31.34 103.32
+\t (00:11:55) last pick:  0.00 100.00
+\i (00:11:57) setwindow text
+\i (00:11:57) close 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) pick grid 13.70 23.68
+\t (00:11:57) last pick:  0.00 0.00
+\i (00:12:07) setwindow text
+\i (00:12:07) close 
+\i (00:12:08) setwindow pcb
+\i (00:12:08) pick grid 66.88 60.00
+\t (00:12:08) last pick:  100.00 100.00
+\i (00:12:10) setwindow text
+\i (00:12:10) close 
+\i (00:12:12) setwindow pcb
+\i (00:12:12) Esc 
+\i (00:12:13) Esc 
+\i (00:12:13) Esc 
+\i (00:12:13) Esc 
+\i (00:12:13) Esc 
+\i (00:12:13) Esc 
+\i (00:12:14) setwindow text
+\i (00:12:14) close 
+\i (00:15:55) setwindow pcb
+\i (00:15:55) pick grid 145.74 -1.74
+\t (00:15:55) last pick:  100.00 0.00
+\i (00:15:55) zoom out 1 
+\i (00:15:55) setwindow pcb
+\i (00:15:55) zoom out 55.20 1.11
+\i (00:15:55) trapsize 259
+\i (00:15:56) zoom out 1 
+\i (00:15:56) setwindow pcb
+\i (00:15:56) zoom out 55.21 1.11
+\i (00:15:56) trapsize 519
+\i (00:15:56) zoom in 1 
+\i (00:15:56) setwindow pcb
+\i (00:15:56) zoom in 94.65 19.79
+\i (00:15:56) trapsize 259
+\i (00:18:42) xname_flush 
+\i (00:18:47) xname_flush 
+\i (00:18:54) xname_flush 
+\i (00:19:23) xname_flush 
+\i (00:20:00) open 
+\e (00:20:00) Do you want to save the changes you made to qfn32-050-0505-010-n.dra?
+\i (00:20:01) fillin no 
+\i (00:20:13) fillin "head8-98-240-h.dra"
+\t (00:20:13) Opening existing design...
+\i (00:20:13) trapsize 1272
+\d (00:20:13) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/head8-98-240-h.dra
+\i (00:20:13) generaledit 
+\i (00:20:16) open 
+\e (00:20:16) Do you want to save the changes you made to head8-98-240-h.dra?
+\i (00:20:17) fillin no 
+\i (00:20:28) fillin "head8-100.dra"
+\t (00:20:28) Opening existing design...
+\i (00:20:28) trapsize 1209
+\d (00:20:28) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/head8-100.dra
+\i (00:20:28) generaledit 
+\i (00:20:30) zoom in 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom in 160.02 -11.66
+\i (00:20:30) trapsize 604
+\i (00:20:30) zoom in 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom in -116.84 -11.66
+\i (00:20:30) trapsize 302
+\i (00:20:31) zoom in 1 
+\i (00:20:31) setwindow pcb
+\i (00:20:31) zoom in -202.67 -7.42
+\i (00:20:31) trapsize 151
+\i (00:20:31) zoom out 1 
+\i (00:20:31) setwindow pcb
+\i (00:20:31) zoom out -202.67 -7.42
+\i (00:20:31) trapsize 302
+\i (00:20:33) zoom out 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom out -209.31 -6.21
+\i (00:20:33) trapsize 604
+\i (00:20:33) zoom in 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom in -259.50 21.59
+\i (00:20:33) trapsize 302
+\i (00:20:33) zoom in 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom in -259.50 21.59
+\i (00:20:33) trapsize 151
+\i (00:20:35) zoom out 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom out -290.02 10.41
+\i (00:20:35) trapsize 302
+\i (00:20:36) zoom in 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom in -287.60 -4.70
+\i (00:20:36) trapsize 151
+\i (00:20:37) zoom out 1 
+\i (00:20:37) setwindow pcb
+\i (00:20:37) zoom out -288.20 -3.49
+\i (00:20:37) trapsize 302
+\i (00:20:47) show measure 
+\i (00:20:48) pick grid -295.46 3.17
+\t (00:20:48) last pick:  -300.00 0.00
+\i (00:20:48) pick grid -200.56 4.38
+\t (00:20:48) last pick:  -200.00 0.00
+\i (00:20:51) setwindow text
+\i (00:20:51) close 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 1 
+\i (00:20:52) setwindow pcb
+\i (00:20:52) zoom out -46.42 -1.06
+\i (00:20:52) trapsize 604
+\i (00:20:52) zoom out 1 
+\i (00:20:52) setwindow pcb
+\i (00:20:52) zoom out 18.88 42.46
+\i (00:20:52) trapsize 1209
+\i (00:20:55) open 
+\e (00:20:55) Do you want to save the changes you made to head8-100.dra?
+\i (00:25:30) fillin no 
+\i (00:25:43) fillin "qfn48-050-0707-010-n.dra"
+\t (00:25:43) Opening existing design...
+\i (00:25:43) trapsize 1038
+\d (00:25:44) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn48-050-0707-010-n.dra
+\e (00:25:44) Command not found: xhilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xdehilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xhilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xdehilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xhilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xdehilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xhilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\e (00:25:44) Command not found: xdehilite
+\i (00:25:44) xname_flush 
+\e (00:25:44) No command active
+\i (00:25:44) done 
+\e (00:25:44) No command active
+\i (00:25:44) generaledit 
+\i (00:25:45) zoom in 1 
+\i (00:25:45) setwindow pcb
+\i (00:25:45) zoom in 63.30 71.60
+\i (00:25:45) trapsize 519
+\i (00:25:45) zoom in 1 
+\i (00:25:45) setwindow pcb
+\i (00:25:45) zoom in -158.77 71.60
+\i (00:25:45) trapsize 259
+\i (00:25:45) zoom out 1 
+\i (00:25:45) setwindow pcb
+\i (00:25:45) zoom out -158.77 71.61
+\i (00:25:45) trapsize 519
+\i (00:25:46) zoom in 1 
+\i (00:25:46) setwindow pcb
+\i (00:25:46) zoom in 32.17 -14.53
+\i (00:25:46) trapsize 259
+\i (00:25:47) zoom out 1 
+\i (00:25:47) setwindow pcb
+\i (00:25:47) zoom out 32.17 -14.53
+\i (00:25:47) trapsize 519
+\i (00:26:55) open 
+\e (00:26:55) Do you want to save the changes you made to qfn48-050-0707-010-n.dra?
+\i (00:26:56) fillin no 
+\i (00:27:11) fillin "qfn64-040-0808-009-n.dra"
+\t (00:27:11) Opening existing design...
+\i (00:27:11) trapsize 1038
+\d (00:27:11) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn64-040-0808-009-n.dra
+\i (00:27:12) generaledit 
+\i (00:27:12) zoom in 1 
+\i (00:27:12) setwindow pcb
+\i (00:27:12) zoom in -42.55 73.68
+\i (00:27:12) trapsize 519
+\i (00:27:13) zoom in 1 
+\i (00:27:13) setwindow pcb
+\i (00:27:13) zoom in -142.17 138.02
+\i (00:27:13) trapsize 259
+\i (00:27:14) zoom out 1 
+\i (00:27:14) setwindow pcb
+\i (00:27:14) zoom out -137.50 141.14
+\i (00:27:14) trapsize 519
+\i (00:27:16) open 
+\e (00:27:16) Do you want to save the changes you made to qfn64-040-0808-009-n.dra?
+\i (00:27:17) fillin no 
+\i (00:27:27) fillin "qfn48-040-0606-008-n.dra"
+\t (00:27:27) Opening existing design...
+\i (00:27:27) trapsize 1038
+\d (00:27:27) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn48-040-0606-008-n.dra
+\i (00:27:27) generaledit 
+\i (00:27:28) zoom in 1 
+\i (00:27:28) setwindow pcb
+\i (00:27:28) zoom in -50.75 50.94
+\i (00:27:28) trapsize 519
+\i (00:27:28) zoom in 1 
+\i (00:27:28) setwindow pcb
+\i (00:27:28) zoom in -203.30 50.94
+\i (00:27:28) trapsize 259
+\i (00:27:29) zoom in 1 
+\i (00:27:29) setwindow pcb
+\i (00:27:29) zoom in -63.20 120.47
+\i (00:27:29) trapsize 130
+\i (00:27:30) zoom in 1 
+\i (00:27:30) setwindow pcb
+\i (00:27:30) zoom in -69.43 119.95
+\i (00:27:30) trapsize 65
+\i (00:27:30) zoom in 1 
+\i (00:27:30) setwindow pcb
+\i (00:27:30) zoom in -69.43 119.95
+\i (00:27:30) trapsize 32
+\i (00:27:32) show measure 
+\i (00:27:32) pick grid -84.86 116.84
+\t (00:27:32) last pick:  -75.00 125.00
+\i (00:27:33) pick grid -71.76 116.25
+\t (00:27:33) last pick:  -75.00 125.00
+\i (00:27:37) zoom out 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom out -87.58 112.49
+\i (00:27:37) trapsize 65
+\i (00:27:37) zoom out 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom out -87.84 113.14
+\i (00:27:37) trapsize 130
+\i (00:27:37) zoom out 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom out -87.85 113.15
+\i (00:27:37) trapsize 259
+\i (00:27:39) pick grid -119.50 118.86
+\t (00:27:39) last pick:  -125.00 125.00
+\i (00:27:40) pick grid 120.21 124.57
+\t (00:27:40) last pick:  125.00 125.00
+\i (00:27:44) pick grid 117.62 117.82
+\t (00:27:44) last pick:  125.00 125.00
+\i (00:27:45) zoom out 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom out 117.10 130.27
+\i (00:27:45) trapsize 519
+\i (00:27:45) zoom out 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom out 119.18 137.54
+\i (00:27:45) trapsize 1038
+\i (00:27:46) zoom in 1 
+\i (00:27:46) setwindow pcb
+\i (00:27:46) zoom in 36.42 96.60
+\i (00:27:46) trapsize 519
+\i (00:27:47) zoom in 1 
+\i (00:27:47) setwindow pcb
+\i (00:27:47) zoom in -36.22 -51.79
+\i (00:27:47) trapsize 259
+\i (00:28:41) zoom in 1 
+\i (00:28:41) setwindow pcb
+\i (00:28:41) zoom in 127.23 54.06
+\i (00:28:41) trapsize 130
+\i (00:28:41) zoom in 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom in 127.23 54.06
+\i (00:28:42) trapsize 65
+\i (00:28:42) zoom out 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom out 116.98 53.15
+\i (00:28:42) trapsize 130
+\i (00:28:42) zoom out 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom out 116.72 52.63
+\i (00:28:42) trapsize 259
+\i (00:28:42) zoom out 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom out 116.73 52.63
+\i (00:28:42) trapsize 519
+\i (00:28:46) open 
+\e (00:28:46) Do you want to save the changes you made to qfn48-040-0606-008-n.dra?
+\i (00:28:50) fillin no 
+\i (00:29:07) fillin "qfn48-040-0606-008-n.dra"
+\t (00:29:07) Opening existing design...
+\i (00:29:07) trapsize 1038
+\d (00:29:07) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/qfn48-040-0606-008-n.dra
+\i (00:29:08) generaledit 
+\e (00:31:37) Command not found: xhilite
+\i (00:31:37) xname_flush 
+\i (00:31:37) done 
+\i (00:31:37) generaledit 
+\i (00:32:03) open 
+\e (00:32:03) Do you want to save the changes you made to qfn48-040-0606-008-n.dra?
+\i (00:32:04) fillin no 
+\i (00:32:33) fillin "x4-3225-006.dra"
+\t (00:32:33) Opening existing design...
+\i (00:32:33) trapsize 853
+\d (00:32:33) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/x4-3225-006.dra
+\i (00:32:33) generaledit 
+\i (00:32:34) zoom in 1 
+\i (00:32:34) setwindow pcb
+\i (00:32:34) zoom in 34.38 3.68
+\i (00:32:34) trapsize 426
+\i (00:32:34) zoom in 1 
+\i (00:32:34) setwindow pcb
+\i (00:32:34) zoom in -126.80 3.68
+\i (00:32:34) trapsize 213
+\i (00:32:35) zoom in 1 
+\i (00:32:35) setwindow pcb
+\i (00:32:35) zoom in 16.90 -2.72
+\i (00:32:35) trapsize 107
+\i (00:32:36) zoom out 1 
+\i (00:32:36) setwindow pcb
+\i (00:32:36) zoom out -25.74 -5.06
+\i (00:32:36) trapsize 213
+\i (00:32:43) zoom out 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom out 6.24 -6.76
+\i (00:32:43) trapsize 426
+\i (00:32:45) zoom in 1 
+\i (00:32:45) setwindow pcb
+\i (00:32:45) zoom in 65.09 23.08
+\i (00:32:45) trapsize 213
+\i (00:32:46) show measure 
+\i (00:32:48) pick grid -41.93 -28.94
+\t (00:32:48) last pick:  -50.00 -25.00
+\i (00:32:48) pick grid 43.77 -28.94
+\t (00:32:48) last pick:  50.00 -25.00
+\i (00:32:54) setwindow text
+\i (00:32:54) close 
+\i (00:32:58) setwindow pcb
+\i (00:32:58) open 
+\e (00:32:58) Do you want to save the changes you made to x4-3225-006.dra?
+\i (00:32:59) fillin no 
+\i (00:33:02) fillin "x4-3225-008.dra"
+\t (00:33:02) Opening existing design...
+\i (00:33:02) trapsize 853
+\d (00:33:03) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/x4-3225-008.dra
+\i (00:33:03) generaledit 
+\i (00:33:03) zoom in 1 
+\i (00:33:03) setwindow pcb
+\i (00:33:03) zoom in 6.20 7.91
+\i (00:33:03) trapsize 426
+\i (00:33:03) zoom in 1 
+\i (00:33:03) setwindow pcb
+\i (00:33:03) zoom in -158.39 7.91
+\i (00:33:03) trapsize 213
+\i (00:33:04) zoom in 1 
+\i (00:33:04) setwindow pcb
+\i (00:33:04) zoom in 30.93 -0.61
+\i (00:33:04) trapsize 107
+\i (00:33:05) show measure 
+\i (00:33:07) pick grid -46.88 -30.24
+\t (00:33:07) last pick:  -50.00 -25.00
+\i (00:33:07) pick grid 44.15 -29.60
+\t (00:33:08) last pick:  50.00 -25.00
+\i (00:33:10) zoom out 1 
+\i (00:33:10) setwindow pcb
+\i (00:33:10) zoom out -1.90 -34.72
+\i (00:33:10) trapsize 213
+\i (00:33:11) zoom in 1 
+\i (00:33:11) setwindow pcb
+\i (00:33:11) zoom in -8.72 6.64
+\i (00:33:11) trapsize 107
+\i (00:33:12) zoom out 1 
+\i (00:33:12) setwindow pcb
+\i (00:33:12) zoom out -8.72 6.64
+\i (00:33:12) trapsize 213
+\i (00:33:15) open 
+\e (00:33:15) Do you want to save the changes you made to x4-3225-008.dra?
+\i (00:33:16) fillin no 
+\i (00:33:21) fillin "x4-3225-009.dra"
+\t (00:33:21) Opening existing design...
+\i (00:33:21) trapsize 853
+\d (00:33:21) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/x4-3225-009.dra
+\i (00:33:21) generaledit 
+\i (00:33:22) zoom in 1 
+\i (00:33:22) setwindow pcb
+\i (00:33:22) zoom in 17.56 -42.14
+\i (00:33:22) trapsize 426
+\i (00:33:22) zoom in 1 
+\i (00:33:22) setwindow pcb
+\i (00:33:22) zoom in -135.95 -27.64
+\i (00:33:22) trapsize 213
+\i (00:33:22) zoom in 1 
+\i (00:33:22) setwindow pcb
+\i (00:33:22) zoom in -33.19 -31.47
+\i (00:33:22) trapsize 107
+\i (00:33:23) pick grid -46.19 -28.91
+\t (00:33:23) last pick:  0.00 0.00
+\i (00:33:24) pick grid 42.93 -30.61
+\t (00:33:24) last pick:  0.00 0.00
+\i (00:33:26) show measure 
+\i (00:33:27) pick grid 43.99 -29.97
+\t (00:33:27) last pick:  50.00 -25.00
+\i (00:33:28) pick grid -41.93 -30.40
+\t (00:33:28) last pick:  -50.00 -25.00
+\i (00:33:31) zoom out 1 
+\i (00:33:31) setwindow pcb
+\i (00:33:31) zoom out -66.44 -26.99
+\i (00:33:31) trapsize 213
+\i (00:33:32) zoom out 1 
+\i (00:33:32) setwindow pcb
+\i (00:33:32) zoom out -60.90 -24.43
+\i (00:33:32) trapsize 426
+\i (00:33:32) zoom in 1 
+\i (00:33:32) setwindow pcb
+\i (00:33:32) zoom in -10.59 -29.55
+\i (00:33:32) trapsize 213
+\i (00:38:30) pick grid 177.88 -23.58
+\t (00:38:30) last pick:  175.00 -25.00
+\i (00:42:42) xname_flush 
+\i (00:44:00) xname_flush 
+\i (00:44:25) xname_flush 
+\i (00:44:40) xname_flush 
+\i (00:45:56) xname_flush 
+\i (00:47:23) xname_flush 
+\i (00:47:43) xname_flush 
+\i (00:47:46) xname_flush 
+\i (00:47:47) xname_flush 
+\i (00:47:50) xname_flush 
+\i (00:47:56) xname_flush 
+\i (00:48:46) xname_flush 
+\i (00:48:58) xname_flush 
+\i (00:51:07) save 
+\i (00:51:08) fillin no 
+\i (00:51:10) fillin "menu_cancel"
+\i (00:51:11) generaledit 
+\i (00:51:12) open 
+\e (00:51:12) Do you want to save the changes you made to x4-3225-009.dra?
+\i (00:51:13) fillin no 
+\i (00:51:24) fillin "head6-100.dra"
+\t (00:51:24) Opening existing design...
+\i (00:51:24) trapsize 1094
+\d (00:51:24) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/head6-100.dra
+\i (00:51:25) generaledit 
+\i (00:51:25) zoom in 1 
+\i (00:51:25) setwindow pcb
+\i (00:51:25) zoom in 233.59 23.59
+\i (00:51:25) trapsize 547
+\e (00:51:30) Command not found: xhilite
+\i (00:51:30) xname_flush 
+\i (00:51:30) done 
+\i (00:51:30) generaledit 
+\i (00:51:55) open 
+\e (00:51:55) Do you want to save the changes you made to head6-100.dra?
+\i (00:51:56) fillin no 
+\i (00:52:08) fillin "menu_cancel"
+\i (00:52:08) generaledit 
+\e (00:52:13) Command not found: xdehilite
+\i (00:52:13) xname_flush 
+\i (00:52:13) done 
+\e (00:52:13) Command not found: xhilite
+\i (00:52:13) xname_flush 
+\e (00:52:13) No command active
+\i (00:52:13) done 
+\e (00:52:13) No command active
+\i (00:52:13) generaledit 
+\i (00:54:32) open 
+\e (00:54:32) Do you want to save the changes you made to head6-100.dra?
+\i (00:54:33) fillin no 
+\i (00:54:39) fillin "menu_cancel"
+\i (00:54:39) generaledit 
+\e (00:55:07) Command not found: xhilite
+\i (00:55:07) xname_flush 
+\i (00:55:07) done 
+\i (00:55:07) generaledit 
+\e (00:55:26) Command not found: xdehilite
+\i (00:55:26) xname_flush 
+\i (00:55:26) done 
+\e (00:55:26) Command not found: xhilite
+\i (00:55:26) xname_flush 
+\e (00:55:26) No command active
+\i (00:55:26) done 
+\e (00:55:26) No command active
+\i (00:55:26) generaledit 
+\e (00:55:46) Command not found: xdehilite
+\i (00:55:46) xname_flush 
+\i (00:55:46) done 
+\e (00:55:46) Command not found: xhilite
+\i (00:55:46) xname_flush 
+\e (00:55:46) No command active
+\i (00:55:46) done 
+\e (00:55:46) No command active
+\i (00:55:46) generaledit 
+\e (00:57:11) Command not found: xdehilite
+\i (00:57:11) xname_flush 
+\i (00:57:11) done 
+\i (00:57:11) generaledit 
+\e (01:06:03) Command not found: xhilite
+\i (01:06:03) xname_flush 
+\i (01:06:03) done 
+\i (01:06:03) generaledit 
+\e (01:07:28) Command not found: xdehilite
+\i (01:07:28) xname_flush 
+\i (01:07:28) done 
+\i (01:07:28) generaledit 
+\e (01:20:38) Command not found: xhilite
+\i (01:20:38) xname_flush 
+\i (01:20:38) done 
+\i (01:20:38) generaledit 
+\e (01:20:38) Command not found: xdehilite
+\i (01:20:38) xname_flush 
+\i (01:20:38) done 
+\i (01:20:39) generaledit 
+\e (01:26:36) Command not found: xhilite
+\i (01:26:36) xname_flush 
+\i (01:26:36) done 
+\i (01:26:36) generaledit 
+\e (01:26:37) Command not found: xdehilite
+\i (01:26:37) xname_flush 
+\i (01:26:37) done 
+\i (01:26:37) generaledit 
+\e (01:31:34) Command not found: xhilite
+\i (01:31:34) xname_flush 
+\i (01:31:34) done 
+\i (01:31:34) generaledit 
+\e (01:31:36) Command not found: xdehilite
+\i (01:31:36) xname_flush 
+\i (01:31:36) done 
+\i (01:31:36) generaledit 
+\e (01:31:36) Command not found: xhilite
+\i (01:31:36) xname_flush 
+\i (01:31:36) done 
+\i (01:31:36) generaledit 
+\e (01:31:37) Command not found: xdehilite
+\i (01:31:37) xname_flush 
+\i (01:31:37) done 
+\e (01:31:38) Command not found: xhilite
+\i (01:31:38) xname_flush 
+\e (01:31:38) No command active
+\i (01:31:38) done 
+\e (01:31:38) No command active
+\i (01:31:38) generaledit 
+\e (01:31:38) Command not found: xdehilite
+\i (01:31:38) xname_flush 
+\i (01:31:38) done 
+\i (01:31:38) generaledit 
+\e (01:31:46) Command not found: xhilite
+\i (01:31:46) xname_flush 
+\i (01:31:46) done 
+\i (01:31:46) generaledit 
+\e (01:31:48) Command not found: xdehilite
+\i (01:31:48) xname_flush 
+\i (01:31:48) done 
+\e (01:31:48) Command not found: xhilite
+\i (01:31:48) xname_flush 
+\e (01:31:48) No command active
+\i (01:31:48) done 
+\e (01:31:48) No command active
+\i (01:31:48) generaledit 
+\e (01:31:50) Command not found: xdehilite
+\i (01:31:50) xname_flush 
+\i (01:31:50) done 
+\i (01:31:50) generaledit 
+\e (01:31:54) Command not found: xhilite
+\i (01:31:54) xname_flush 
+\i (01:31:54) done 
+\i (01:31:54) generaledit 
+\e (01:31:56) Command not found: xdehilite
+\i (01:31:56) xname_flush 
+\i (01:31:56) done 
+\i (01:31:56) generaledit 
+\e (01:31:57) Command not found: xhilite
+\i (01:31:57) xname_flush 
+\i (01:31:57) done 
+\i (01:31:57) generaledit 
+\e (01:31:58) Command not found: xdehilite
+\i (01:31:58) xname_flush 
+\i (01:31:58) done 
+\i (01:31:58) generaledit 
+\e (01:33:00) Command not found: xhilite
+\i (01:33:00) xname_flush 
+\i (01:33:00) done 
+\i (01:33:00) generaledit 
+\e (01:33:05) Command not found: xdehilite
+\i (01:33:05) xname_flush 
+\i (01:33:05) done 
+\i (01:33:05) generaledit 
+\e (01:33:13) Command not found: xhilite
+\i (01:33:13) xname_flush 
+\i (01:33:13) done 
+\i (01:33:13) generaledit 
+\e (01:33:18) Command not found: xdehilite
+\i (01:33:18) xname_flush 
+\i (01:33:18) done 
+\i (01:33:18) generaledit 
+\e (01:38:03) Command not found: xhilite
+\i (01:38:03) xname_flush 
+\i (01:38:03) done 
+\i (01:38:03) generaledit 
+\e (01:38:06) Command not found: xhilite
+\i (01:38:06) xname_flush 
+\i (01:38:06) done 
+\i (01:38:06) generaledit 
+\e (01:38:08) Command not found: xhilite
+\i (01:38:08) xname_flush 
+\i (01:38:08) done 
+\i (01:38:08) generaledit 
+\e (01:38:09) Command not found: xdehilite
+\i (01:38:09) xname_flush 
+\i (01:38:09) done 
+\e (01:38:09) Command not found: xhilite
+\i (01:38:09) xname_flush 
+\e (01:38:09) No command active
+\i (01:38:09) done 
+\e (01:38:09) No command active
+\i (01:38:09) generaledit 
+\e (01:38:10) Command not found: xhilite
+\i (01:38:10) xname_flush 
+\i (01:38:10) done 
+\i (01:38:10) generaledit 
+\e (01:38:12) Command not found: xdehilite
+\i (01:38:12) xname_flush 
+\i (01:38:12) done 
+\i (01:38:12) generaledit 
+\e (01:38:14) Command not found: xhilite
+\i (01:38:14) xname_flush 
+\i (01:38:14) done 
+\i (01:38:15) generaledit 
+\e (01:38:15) Command not found: xhilite
+\i (01:38:15) xname_flush 
+\i (01:38:15) done 
+\i (01:38:15) generaledit 
+\e (01:38:18) Command not found: xdehilite
+\i (01:38:18) xname_flush 
+\i (01:38:18) done 
+\i (01:38:18) generaledit 
+\e (01:38:26) Command not found: xhilite
+\i (01:38:26) xname_flush 
+\i (01:38:26) done 
+\i (01:38:26) generaledit 
+\e (01:38:28) Command not found: xhilite
+\i (01:38:28) xname_flush 
+\i (01:38:28) done 
+\i (01:38:28) generaledit 
+\e (01:38:32) Command not found: xdehilite
+\i (01:38:32) xname_flush 
+\i (01:38:32) done 
+\i (01:38:32) generaledit 
+\e (01:38:40) Command not found: xhilite
+\i (01:38:40) xname_flush 
+\i (01:38:40) done 
+\i (01:38:40) generaledit 
+\e (01:38:45) Command not found: xdehilite
+\i (01:38:45) xname_flush 
+\i (01:38:45) done 
+\e (01:38:45) Command not found: xhilite
+\i (01:38:45) xname_flush 
+\e (01:38:45) No command active
+\i (01:38:45) done 
+\e (01:38:45) No command active
+\i (01:38:45) generaledit 
+\e (01:38:49) Command not found: xdehilite
+\i (01:38:49) xname_flush 
+\i (01:38:49) done 
+\i (01:38:49) generaledit 
+\e (01:38:50) Command not found: xhilite
+\i (01:38:50) xname_flush 
+\i (01:38:50) done 
+\i (01:38:50) generaledit 
+\e (01:38:51) Command not found: xdehilite
+\i (01:38:51) xname_flush 
+\i (01:38:51) done 
+\i (01:38:51) generaledit 
+\e (01:38:52) Command not found: xhilite
+\i (01:38:52) xname_flush 
+\i (01:38:52) done 
+\i (01:38:52) generaledit 
+\e (01:38:54) Command not found: xdehilite
+\i (01:38:54) xname_flush 
+\i (01:38:54) done 
+\i (01:38:55) generaledit 
+\e (01:38:55) Command not found: xhilite
+\i (01:38:55) xname_flush 
+\i (01:38:55) done 
+\i (01:38:55) generaledit 
+\e (01:38:57) Command not found: xdehilite
+\i (01:38:57) xname_flush 
+\i (01:38:57) done 
+\i (01:38:57) generaledit 
+\e (01:39:00) Command not found: xhilite
+\i (01:39:00) xname_flush 
+\i (01:39:00) done 
+\i (01:39:00) generaledit 
+\e (01:39:01) Command not found: xdehilite
+\i (01:39:01) xname_flush 
+\i (01:39:01) done 
+\i (01:39:01) generaledit 
+\e (01:39:06) Command not found: xhilite
+\i (01:39:06) xname_flush 
+\i (01:39:06) done 
+\i (01:39:06) generaledit 
+\e (01:39:10) Command not found: xhilite
+\i (01:39:10) xname_flush 
+\i (01:39:10) done 
+\i (01:39:10) generaledit 
+\e (01:39:14) Command not found: xdehilite
+\i (01:39:14) xname_flush 
+\i (01:39:14) done 
+\e (01:39:14) Command not found: xhilite
+\i (01:39:14) xname_flush 
+\e (01:39:14) No command active
+\i (01:39:14) done 
+\e (01:39:14) No command active
+\i (01:39:14) generaledit 
+\e (01:39:16) Command not found: xdehilite
+\i (01:39:16) xname_flush 
+\i (01:39:16) done 
+\i (01:39:16) generaledit 
+\e (01:39:21) Command not found: xhilite
+\i (01:39:21) xname_flush 
+\i (01:39:21) done 
+\i (01:39:21) generaledit 
+\e (01:39:22) Command not found: xdehilite
+\i (01:39:22) xname_flush 
+\i (01:39:22) done 
+\i (01:39:22) generaledit 
+\e (01:39:22) Command not found: xhilite
+\i (01:39:22) xname_flush 
+\i (01:39:22) done 
+\i (01:39:22) generaledit 
+\e (01:39:23) Command not found: xdehilite
+\i (01:39:23) xname_flush 
+\i (01:39:23) done 
+\i (01:39:23) generaledit 
+\e (01:39:31) Command not found: xhilite
+\i (01:39:31) xname_flush 
+\i (01:39:31) done 
+\i (01:39:31) generaledit 
+\e (01:39:31) Command not found: xdehilite
+\i (01:39:31) xname_flush 
+\i (01:39:31) done 
+\i (01:39:31) generaledit 
+\e (01:43:03) Command not found: xhilite
+\i (01:43:03) xname_flush 
+\i (01:43:03) done 
+\i (01:43:03) generaledit 
+\e (01:43:03) Command not found: xdehilite
+\i (01:43:03) xname_flush 
+\i (01:43:03) done 
+\e (01:43:04) Command not found: xhilite
+\i (01:43:04) xname_flush 
+\e (01:43:04) No command active
+\i (01:43:04) done 
+\e (01:43:04) No command active
+\i (01:43:04) generaledit 
+\e (01:43:04) Command not found: xdehilite
+\i (01:43:04) xname_flush 
+\i (01:43:04) done 
+\e (01:43:05) Command not found: xhilite
+\i (01:43:05) xname_flush 
+\e (01:43:05) No command active
+\i (01:43:05) done 
+\e (01:43:05) No command active
+\i (01:43:05) generaledit 
+\e (01:43:05) Command not found: xhilite
+\i (01:43:05) xname_flush 
+\i (01:43:05) done 
+\i (01:43:05) generaledit 
+\e (01:43:09) Command not found: xdehilite
+\i (01:43:09) xname_flush 
+\i (01:43:09) done 
+\e (01:43:09) Command not found: xhilite
+\i (01:43:09) xname_flush 
+\e (01:43:09) No command active
+\i (01:43:09) done 
+\e (01:43:09) No command active
+\i (01:43:09) generaledit 
+\e (01:43:11) Command not found: xdehilite
+\i (01:43:11) xname_flush 
+\i (01:43:11) done 
+\i (01:43:11) generaledit 
+\e (01:43:14) Command not found: xhilite
+\i (01:43:14) xname_flush 
+\i (01:43:14) done 
+\i (01:43:14) generaledit 
+\e (01:43:15) Command not found: xdehilite
+\i (01:43:15) xname_flush 
+\i (01:43:15) done 
+\i (01:43:15) generaledit 
+\e (01:43:16) Command not found: xhilite
+\i (01:43:16) xname_flush 
+\i (01:43:16) done 
+\i (01:43:16) generaledit 
+\e (01:43:18) Command not found: xhilite
+\i (01:43:18) xname_flush 
+\i (01:43:18) done 
+\i (01:43:18) generaledit 
+\e (01:43:19) Command not found: xhilite
+\i (01:43:19) xname_flush 
+\i (01:43:19) done 
+\i (01:43:19) generaledit 
+\e (01:43:20) Command not found: xhilite
+\i (01:43:20) xname_flush 
+\i (01:43:20) done 
+\i (01:43:20) generaledit 
+\e (01:43:20) Command not found: xdehilite
+\i (01:43:20) xname_flush 
+\i (01:43:20) done 
+\e (01:43:21) Command not found: xhilite
+\i (01:43:21) xname_flush 
+\e (01:43:21) No command active
+\i (01:43:21) done 
+\e (01:43:21) No command active
+\i (01:43:21) generaledit 
+\e (01:43:25) Command not found: xdehilite
+\i (01:43:25) xname_flush 
+\i (01:43:25) done 
+\i (01:43:25) generaledit 
+\e (01:43:27) Command not found: xhilite
+\i (01:43:27) xname_flush 
+\i (01:43:27) done 
+\i (01:43:27) generaledit 
+\e (01:43:28) Command not found: xdehilite
+\i (01:43:28) xname_flush 
+\i (01:43:28) done 
+\e (01:43:28) Command not found: xhilite
+\i (01:43:28) xname_flush 
+\e (01:43:28) No command active
+\i (01:43:28) done 
+\e (01:43:28) No command active
+\i (01:43:28) generaledit 
+\e (01:43:31) Command not found: xdehilite
+\i (01:43:31) xname_flush 
+\i (01:43:31) done 
+\i (01:43:31) generaledit 
+\e (01:43:32) Command not found: xhilite
+\i (01:43:32) xname_flush 
+\i (01:43:32) done 
+\i (01:43:32) generaledit 
+\e (01:43:33) Command not found: xhilite
+\i (01:43:33) xname_flush 
+\i (01:43:33) done 
+\i (01:43:33) generaledit 
+\e (01:43:36) Command not found: xdehilite
+\i (01:43:36) xname_flush 
+\i (01:43:36) done 
+\i (01:43:36) generaledit 
+\e (01:43:37) Command not found: xhilite
+\i (01:43:37) xname_flush 
+\i (01:43:37) done 
+\i (01:43:37) generaledit 
+\e (01:43:39) Command not found: xdehilite
+\i (01:43:39) xname_flush 
+\i (01:43:39) done 
+\e (01:43:39) Command not found: xhilite
+\i (01:43:39) xname_flush 
+\e (01:43:39) No command active
+\i (01:43:39) done 
+\e (01:43:39) No command active
+\i (01:43:39) generaledit 
+\e (01:43:41) Command not found: xdehilite
+\i (01:43:41) xname_flush 
+\i (01:43:41) done 
+\i (01:43:41) generaledit 
+\e (01:43:45) Command not found: xhilite
+\i (01:43:45) xname_flush 
+\i (01:43:45) done 
+\i (01:43:45) generaledit 
+\e (01:43:46) Command not found: xdehilite
+\i (01:43:46) xname_flush 
+\i (01:43:46) done 
+\e (01:43:46) Command not found: xhilite
+\i (01:43:46) xname_flush 
+\e (01:43:46) No command active
+\i (01:43:46) done 
+\e (01:43:46) No command active
+\i (01:43:46) generaledit 
+\e (01:43:48) Command not found: xdehilite
+\i (01:43:48) xname_flush 
+\i (01:43:48) done 
+\i (01:43:48) generaledit 
+\e (01:43:51) Command not found: xhilite
+\i (01:43:51) xname_flush 
+\i (01:43:51) done 
+\i (01:43:51) generaledit 
+\e (01:43:52) Command not found: xdehilite
+\i (01:43:52) xname_flush 
+\i (01:43:52) done 
+\i (01:43:52) generaledit 
+\e (01:43:57) Command not found: xhilite
+\i (01:43:57) xname_flush 
+\i (01:43:57) done 
+\i (01:43:57) generaledit 
+\e (01:43:58) Command not found: xhilite
+\i (01:43:58) xname_flush 
+\i (01:43:58) done 
+\i (01:43:58) generaledit 
+\e (01:44:02) Command not found: xdehilite
+\i (01:44:02) xname_flush 
+\i (01:44:02) done 
+\i (01:44:02) generaledit 
+\e (01:44:03) Command not found: xhilite
+\i (01:44:03) xname_flush 
+\i (01:44:03) done 
+\i (01:44:03) generaledit 
+\e (01:44:04) Command not found: xdehilite
+\i (01:44:04) xname_flush 
+\i (01:44:04) done 
+\i (01:44:04) generaledit 
+\e (01:44:10) Command not found: xhilite
+\i (01:44:10) xname_flush 
+\i (01:44:10) done 
+\i (01:44:10) generaledit 
+\e (01:44:11) Command not found: xdehilite
+\i (01:44:11) xname_flush 
+\i (01:44:11) done 
+\i (01:44:11) generaledit 
+\e (01:44:11) Command not found: xhilite
+\i (01:44:11) xname_flush 
+\i (01:44:11) done 
+\i (01:44:11) generaledit 
+\e (01:44:11) Command not found: xdehilite
+\i (01:44:11) xname_flush 
+\i (01:44:11) done 
+\i (01:44:12) generaledit 
+\e (01:44:16) Command not found: xhilite
+\i (01:44:16) xname_flush 
+\i (01:44:16) done 
+\i (01:44:16) generaledit 
+\e (01:44:16) Command not found: xdehilite
+\i (01:44:16) xname_flush 
+\i (01:44:16) done 
+\i (01:44:16) generaledit 
+\e (01:44:18) Command not found: xhilite
+\i (01:44:18) xname_flush 
+\i (01:44:18) done 
+\i (01:44:18) generaledit 
+\e (01:44:18) Command not found: xdehilite
+\i (01:44:18) xname_flush 
+\i (01:44:18) done 
+\i (01:44:18) generaledit 
+\e (01:44:21) Command not found: xhilite
+\i (01:44:21) xname_flush 
+\i (01:44:21) done 
+\i (01:44:21) generaledit 
+\e (01:44:22) Command not found: xhilite
+\i (01:44:22) xname_flush 
+\i (01:44:22) done 
+\i (01:44:22) generaledit 
+\e (01:44:24) Command not found: xdehilite
+\i (01:44:24) xname_flush 
+\i (01:44:24) done 
+\e (01:44:24) Command not found: xhilite
+\i (01:44:24) xname_flush 
+\e (01:44:24) No command active
+\i (01:44:24) done 
+\e (01:44:24) No command active
+\i (01:44:24) generaledit 
+\e (01:44:26) Command not found: xhilite
+\i (01:44:26) xname_flush 
+\i (01:44:26) done 
+\i (01:44:26) generaledit 
+\e (01:44:28) Command not found: xhilite
+\i (01:44:28) xname_flush 
+\i (01:44:28) done 
+\i (01:44:29) generaledit 
+\e (01:44:31) Command not found: xdehilite
+\i (01:44:31) xname_flush 
+\i (01:44:31) done 
+\i (01:44:31) generaledit 
+\e (01:44:32) Command not found: xhilite
+\i (01:44:32) xname_flush 
+\i (01:44:32) done 
+\i (01:44:32) generaledit 
+\e (01:44:34) Command not found: xdehilite
+\i (01:44:34) xname_flush 
+\i (01:44:34) done 
+\i (01:44:35) generaledit 
+\e (01:44:35) Command not found: xhilite
+\i (01:44:35) xname_flush 
+\i (01:44:35) done 
+\i (01:44:35) generaledit 
+\e (01:44:36) Command not found: xdehilite
+\i (01:44:36) xname_flush 
+\i (01:44:36) done 
+\i (01:44:37) generaledit 
+\e (01:44:39) Command not found: xhilite
+\i (01:44:39) xname_flush 
+\i (01:44:39) done 
+\i (01:44:40) generaledit 
+\e (01:44:40) Command not found: xdehilite
+\i (01:44:40) xname_flush 
+\i (01:44:40) done 
+\i (01:44:40) generaledit 
+\e (01:44:42) Command not found: xhilite
+\i (01:44:42) xname_flush 
+\i (01:44:42) done 
+\i (01:44:42) generaledit 
+\e (01:44:44) Command not found: xhilite
+\i (01:44:44) xname_flush 
+\i (01:44:44) done 
+\i (01:44:44) generaledit 
+\e (01:44:44) Command not found: xhilite
+\i (01:44:44) xname_flush 
+\i (01:44:44) done 
+\i (01:44:45) generaledit 
+\e (01:44:45) Command not found: xdehilite
+\i (01:44:45) xname_flush 
+\i (01:44:45) done 
+\e (01:44:45) Command not found: xhilite
+\i (01:44:45) xname_flush 
+\e (01:44:45) No command active
+\i (01:44:45) done 
+\e (01:44:45) No command active
+\i (01:44:45) generaledit 
+\e (01:44:46) Command not found: xhilite
+\i (01:44:46) xname_flush 
+\i (01:44:46) done 
+\i (01:44:46) generaledit 
+\e (01:44:49) Command not found: xdehilite
+\i (01:44:49) xname_flush 
+\i (01:44:49) done 
+\i (01:44:49) generaledit 
+\e (01:44:50) Command not found: xhilite
+\i (01:44:50) xname_flush 
+\i (01:44:50) done 
+\i (01:44:50) generaledit 
+\e (01:44:50) Command not found: xdehilite
+\i (01:44:50) xname_flush 
+\i (01:44:50) done 
+\i (01:44:51) generaledit 
+\e (01:44:53) Command not found: xhilite
+\i (01:44:53) xname_flush 
+\i (01:44:53) done 
+\i (01:44:53) generaledit 
+\e (01:44:53) Command not found: xdehilite
+\i (01:44:53) xname_flush 
+\i (01:44:53) done 
+\i (01:44:53) generaledit 
+\e (01:44:54) Command not found: xhilite
+\i (01:44:54) xname_flush 
+\i (01:44:54) done 
+\i (01:44:54) generaledit 
+\e (01:44:54) Command not found: xdehilite
+\i (01:44:54) xname_flush 
+\i (01:44:54) done 
+\i (01:44:54) generaledit 
+\e (01:44:59) Command not found: xhilite
+\i (01:44:59) xname_flush 
+\i (01:44:59) done 
+\i (01:44:59) generaledit 
+\e (01:44:59) Command not found: xdehilite
+\i (01:44:59) xname_flush 
+\i (01:44:59) done 
+\i (01:44:59) generaledit 
+\e (01:46:51) Command not found: xhilite
+\i (01:46:51) xname_flush 
+\i (01:46:51) done 
+\i (01:46:51) generaledit 
+\e (01:46:54) Command not found: xdehilite
+\i (01:46:54) xname_flush 
+\i (01:46:54) done 
+\i (01:46:54) generaledit 
+\e (01:49:08) Command not found: xhilite
+\i (01:49:08) xname_flush 
+\i (01:49:08) done 
+\i (01:49:08) generaledit 
+\e (01:49:13) Command not found: xdehilite
+\i (01:49:13) xname_flush 
+\i (01:49:13) done 
+\i (01:49:13) generaledit 
+\e (01:49:30) Command not found: xhilite
+\i (01:49:30) xname_flush 
+\i (01:49:30) done 
+\i (01:49:30) generaledit 
+\e (01:49:34) Command not found: xdehilite
+\i (01:49:34) xname_flush 
+\i (01:49:34) done 
+\i (01:49:34) generaledit 
+\i (01:56:50) new 
+\e (01:56:50) Do you want to save the changes you made to head6-100.dra?
+\i (01:56:52) fillin no 
+\i (01:57:11) newdrawfillin "H3-K210.brd" "Board"
+\t (01:57:11)     Journal end - Fri Mar 22 11:47:41 2019

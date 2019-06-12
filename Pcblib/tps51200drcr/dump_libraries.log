@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Dec 11 14:28:23 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/资料/开发板资料/黑金ALINX资料/AX7101/CD/CD/01_硬件设计资料/核心板/ac7100_allegro_PcbLib/ac710/tps51200drcr.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  OB11_03X33_47 being dumped.
+
+  RE11 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  1 being dumped.
+
+  2 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of shape symbols dumped:            2
+
+Total number of symbols dumped:            2
+*****************************************************
+

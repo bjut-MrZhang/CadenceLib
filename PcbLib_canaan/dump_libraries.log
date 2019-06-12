@@ -1,0 +1,319 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Thu Feb 21 19:21:24 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/Documents/kendryte-test-V0_2-20181203_Brd/kendryte-test-V0_2-20181203_Brd/kendryte-test-V0_2-20181203.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD28CIR28NP being dumped.
+
+  PAD65CIR65NP being dumped.
+
+  PAD125CIR235D being dumped.
+
+  PAD95CIR95NP being dumped.
+
+  SMDQ71 being dumped.
+
+  OB10X22 being dumped.
+
+  OB20X50 being dumped.
+
+  SMD30X32 being dumped.
+
+  SMD12X50 being dumped.
+
+  SMD20X25 being dumped.
+
+  SMD16X20 being dumped.
+
+  SMD20X70 being dumped.
+
+  SMD12X51 being dumped.
+
+  SMD40X60 being dumped.
+
+  SMD50X50 being dumped.
+
+  SMD30X35 being dumped.
+
+  SMD25X32 being dumped.
+
+  SMD40X80 being dumped.
+
+  SMD32X35 being dumped.
+
+  SMD40X45 being dumped.
+
+  SMD25X60 being dumped.
+
+  SMD40X55 being dumped.
+
+  SMD12X38 being dumped.
+
+  SMD45X50 being dumped.
+
+  SMD24X80 being dumped.
+
+  VIA20D10T32_TH being dumped.
+
+  SMD70X80 being dumped.
+
+  SMD12X57 being dumped.
+
+  SMD25X45 being dumped.
+
+  SMD22X48 being dumped.
+
+  SMD16X28 being dumped.
+
+  SMD30X95 being dumped.
+
+  SMD35X55 being dumped.
+
+  SMD28X63 being dumped.
+
+  SMD55X63 being dumped.
+
+  SMD24X85 being dumped.
+
+  SMD20X22-SHAPE being dumped.
+
+  VIA8-BGA being dumped.
+
+  SMD25X75 being dumped.
+
+  SMD55X55 being dumped.
+
+  SMD25X85 being dumped.
+
+  SMD55X65 being dumped.
+
+  SMD59X71 being dumped.
+
+  SMD71X87 being dumped.
+
+  OB40X50OB60X70D being dumped.
+
+  ID-BOARD being dumped.
+
+  OB40X70OB55X85D being dumped.
+
+  OB23X60OR40X75D being dumped.
+
+  SMD35X120 being dumped.
+
+  V20H10_THERMAL being dumped.
+
+  OR35X60OR50X75D being dumped.
+
+  SMD170X98 being dumped.
+
+  VT20D10B28 being dumped.
+
+  OB60X100OB100X140 being dumped.
+
+  SMD100X150 being dumped.
+
+  SMD155X102 being dumped.
+
+  OB40X140OB55X155D being dumped.
+
+  PAD40SQ60D being dumped.
+
+  PAD30SQ45D being dumped.
+
+  PAD35SQ50D being dumped.
+
+  PAD42SQ58D being dumped.
+
+  PAD32SQ59D being dumped.
+
+  NP51 being dumped.
+
+  NP39 being dumped.
+
+  PAD25CIR100D-FULL being dumped.
+
+  PAD40CIR60D being dumped.
+
+  PAD30CIR45D being dumped.
+
+  PAD35CIR50D being dumped.
+
+  PAD42CIR58D being dumped.
+
+  PAD32CIR59D being dumped.
+
+  TP30B being dumped.
+
+  SMD-SHAPE-SOT89-3 being dumped.
+
+  R60D40 being dumped.
+
+  S60D40 being dumped.
+
+  R64D40 being dumped.
+
+  S64D40 being dumped.
+
+  PAD83CIR180D being dumped.
+
+  BALL10 being dumped.
+
+  OB8X12 being dumped.
+
+  PAD40CIR40NP being dumped.
+
+  OB8X19 being dumped.
+
+  PAD60CIR60NP being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  shape-sot89-3 being dumped.
+
+  anti30x60-65x90 being dumped.
+
+  s3 being dumped.
+
+  s4 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  th40x140-55x155-70x170 being dumped.
+
+  th30-40-50 being dumped.
+
+  th40-55-70 being dumped.
+
+  th35-50-65 being dumped.
+
+  th45-60-75 being dumped.
+
+  th32 being dumped.
+
+  th70 being dumped.
+
+  null being dumped.
+
+  th35x60-50x75-65x90 being dumped.
+
+  th40x70-55x85 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  led0603 being dumped.
+
+  sop16-50-157-69 being dumped.
+
+  hole-m3 being dumped.
+
+  head-idc-20-358 being dumped.
+
+  head2x4-2_54_female being dumped.
+
+  kpu-fanout-02 being dumped.
+
+  sw-ts-017a-2-59 being dumped.
+
+  sot23_5 being dumped.
+
+  dfn-msm261s4030h0-8-41 being dumped.
+
+  c0402-bga being dumped.
+
+  head2-100 being dumped.
+
+  head2x10-79-smd being dumped.
+
+  led-ws2812b-4-62 being dumped.
+
+  fpc37-1mm being dumped.
+
+  x2-3215-009 being dumped.
+
+  x4-3225-006 being dumped.
+
+  sot23-3-43 being dumped.
+
+  id1 being dumped.
+
+  sot89-3-63 being dumped.
+
+  qfn20_3x3 being dumped.
+
+  kendryte being dumped.
+
+  pl0303-017a being dumped.
+
+  tp25cir100 being dumped.
+
+  dsw5-254-1007-010-h being dumped.
+
+  sot143-4-48 being dumped.
+
+  head2x4-100 being dumped.
+
+  bat_cr1220 being dumped.
+
+  c0402 being dumped.
+
+  audio-pj-313-5-197 being dumped.
+
+  c0603 being dumped.
+
+  c0805 being dumped.
+
+  f0805 being dumped.
+
+  r0402 being dumped.
+
+  r0805 being dumped.
+
+  sod882d-2-24 being dumped.
+
+  fb0402 being dumped.
+
+  type-c-usb16-20-126-h-smd being dumped.
+
+  card-micro-sd-9-80 being dumped.
+
+  head1x3-2_54 being dumped.
+
+  dsw-ss-12d11-3-260-h being dumped.
+
+  fpc24-005-0414-011-f-h being dumped.
+
+  sop8-50-210-85 being dumped.
+
+  sop8-50-157-70 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               82
+Number of package symbols dumped:         43
+Number of shape symbols dumped:            4
+Number of flash symbols dumped:           10
+
+Total number of symbols dumped:           57
+*****************************************************
+

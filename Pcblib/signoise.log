@@ -1,0 +1,51 @@
+INFO: Clearing simulation data for "case0"
+INFO: Loaded existing device file 'E:\workspace\Cadence\CadenceLib\Pcblib\devices.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Using SigNoise run directory 'E:/workspace/Cadence/CadenceLib/Pcblib/sigxp.run'
+INFO: Reading report definition file 'd:/Cadence/SPB_16.6/share/pcb/signal/reports.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Reading report definition file 'd:/Cadence/SPB_16.6/share/pcb/signal/custom_rep.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.200000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.200000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+WARNING: Rise edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+WARNING: Fall edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.020000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.020000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+WARNING: Rise edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+WARNING: Fall edge time adjusted from 1.5e-009 to 9.8e-010 to fit duty cycle
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.020000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.020000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.050000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.050000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.050000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.050000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.050000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.050000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.050000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.050000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+INFO: Clearing simulation data for case0
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection
+INFO: Using waveform resolution 0.050000 ns.
+INFO: Simulation (DESIGN OUT1 1) DESIGN OUT1 1 Pulse Typ Reflection finished
+ANNOTATION: Tlsim Command used :  tlsim  -r 0.050000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n

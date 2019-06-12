@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HEADER_8X2_H_254MM.dra                        )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Feb 22 18:40:52 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/Workspace/Cadence/CadenceLib/PcbLib_canaan
+    Name      = header_8x2_h_254mm.psm
+    User      = AD
+    Machine   = DESKTOP-AH2D8O3
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

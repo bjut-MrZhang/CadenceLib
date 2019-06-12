@@ -1,0 +1,13 @@
+\t (00:00:00) sigwave 16.6-2015 S057 (v16-6-112EL) Windows 32
+\t (00:00:00)     Journal start - Fri Aug 31 11:01:04 2018
+\t (00:00:00)         Host=HTTR-PC User=httr Pid=7128 CPUs=8
+\t (00:00:00) CmdLine= sigwave _NODOC_ -pid Waveform8156
+\t (00:00:00) 
+   (00:00:00) Loading sigwave.cxt 
+\i (00:00:00) setwindow main
+\i (00:00:00) deselect all
+\i (00:00:00) zoom fit
+\i (00:50:22) select root
+\i (00:52:57) deselect all
+\i (00:52:57) exit
+\t (00:52:57)     Journal end - Fri Aug 31 11:54:01 2018

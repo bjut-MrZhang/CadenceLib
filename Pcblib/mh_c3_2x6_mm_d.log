@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mh_c3_2x6_mm_d.dra                            )
+(    Software Version : 16.6-2015S058                                 )
+(    Date/Time        : Thu Aug 30 11:00:50 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = mh_c3_2x6_mm_d.bsm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

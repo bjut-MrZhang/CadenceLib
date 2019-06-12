@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HEADER_5X2_H_254MM.dra                        )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Feb 22 18:59:02 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/Workspace/Cadence/CadenceLib/PcbLib_canaan
+    Name      = header_5x2_h_254mm.psm
+    User      = AD
+    Machine   = DESKTOP-AH2D8O3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

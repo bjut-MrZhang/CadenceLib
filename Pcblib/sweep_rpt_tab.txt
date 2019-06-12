@@ -1,0 +1,2 @@
+SimID	Driver	Receiver	Cycle	GlitchTol [ns]	FTSMode	Glitch	Monotonic	NoiseMargin [mV]	OvershootHigh [mV]	OvershootLow [mV]	PropDelay [ns]	SwitchDelay [ns]	SettleDelay [ns]
+1	DESIGN.OUT1.1	DESIGN.IN1.1	5	0.09	Typ	PASS	PASS	1734.43	4745.48	-913.354	0.5	1.17512	2.20355

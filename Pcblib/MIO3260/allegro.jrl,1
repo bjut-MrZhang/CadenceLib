@@ -1,0 +1,251 @@
+\t (00:06:00) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:06:00)     Journal start - Wed Dec 05 09:20:54 2018
+\t (00:06:00)         Host=HTTR-PC User=httr Pid=6352 CPUs=8
+\t (00:06:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:06:00) 
+\d (00:06:00) Design opened: E:/workspace/Cadence/CadenceLib/Pcblib/MIO3260/mio-3260-2.dra
+\i (00:06:00) generaledit 
+\i (00:06:02) pick grid -2070.91 -663.90
+\t (00:06:02) last pick:  -2070.00 -660.00
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in -1276.05 -46.61
+\i (00:06:02) trapsize 2114
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in -1216.85 -46.61
+\i (00:06:02) trapsize 1057
+\i (00:06:02) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in -1216.85 -46.60
+\i (00:06:03) trapsize 528
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out -876.50 -60.34
+\i (00:06:03) trapsize 1057
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -1176.69 267.33
+\i (00:06:04) trapsize 528
+\i (00:06:05) pick grid -1133.35 309.62
+\t (00:06:05) last pick:  -1130.00 310.00
+\i (00:06:05) delete 
+\i (00:06:05) generaledit 
+\i (00:06:06) pick grid -1141.80 138.38
+\t (00:06:06) last pick:  -1140.00 140.00
+\i (00:06:06) delete 
+\i (00:06:06) generaledit 
+\i (00:06:07) pick grid -1208.39 300.10
+\t (00:06:07) last pick:  -1210.00 300.00
+\i (00:06:07) delete 
+\i (00:06:07) generaledit 
+\i (00:06:07) pick grid -1212.62 187.00
+\t (00:06:07) last pick:  -1210.00 190.00
+\i (00:06:07) delete 
+\i (00:06:07) generaledit 
+\i (00:06:08) pick grid -1302.47 287.42
+\t (00:06:08) last pick:  -1300.00 290.00
+\i (00:06:08) delete 
+\i (00:06:08) generaledit 
+\i (00:06:08) pick grid -1302.47 157.41
+\t (00:06:08) last pick:  -1300.00 160.00
+\i (00:06:08) delete 
+\i (00:06:08) generaledit 
+\i (00:06:09) pick grid -1369.06 274.73
+\t (00:06:09) last pick:  -1370.00 270.00
+\i (00:06:09) delete 
+\i (00:06:09) generaledit 
+\i (00:06:09) pick grid -1358.49 160.58
+\t (00:06:09) last pick:  -1360.00 160.00
+\i (00:06:09) delete 
+\i (00:06:09) generaledit 
+\i (00:06:09) pick grid -1471.58 292.70
+\t (00:06:09) last pick:  -1470.00 290.00
+\i (00:06:10) delete 
+\i (00:06:10) generaledit 
+\i (00:06:10) pick grid -1450.44 154.24
+\t (00:06:10) last pick:  -1450.00 150.00
+\i (00:06:10) delete 
+\i (00:06:10) generaledit 
+\i (00:06:10) pick grid -1519.15 291.65
+\t (00:06:10) last pick:  -1520.00 290.00
+\i (00:06:10) delete 
+\i (00:06:11) generaledit 
+\i (00:06:11) pick grid -1520.21 176.43
+\t (00:06:11) last pick:  -1520.00 180.00
+\i (00:06:11) delete 
+\i (00:06:11) generaledit 
+\i (00:06:11) pick grid -1610.05 302.22
+\t (00:06:11) last pick:  -1610.00 300.00
+\i (00:06:11) delete 
+\i (00:06:11) generaledit 
+\i (00:06:12) pick grid -1610.05 181.72
+\t (00:06:12) last pick:  -1610.00 180.00
+\i (00:06:12) delete 
+\i (00:06:12) generaledit 
+\i (00:06:12) pick grid -1680.87 291.65
+\t (00:06:12) last pick:  -1680.00 290.00
+\i (00:06:12) delete 
+\i (00:06:12) generaledit 
+\i (00:06:13) pick grid -1673.47 177.49
+\t (00:06:13) last pick:  -1670.00 180.00
+\i (00:06:13) delete 
+\i (00:06:13) generaledit 
+\i (00:06:13) pick grid -1755.91 301.16
+\t (00:06:13) last pick:  -1760.00 300.00
+\i (00:06:13) delete 
+\i (00:06:13) generaledit 
+\i (00:06:13) pick grid -1768.60 175.38
+\t (00:06:13) last pick:  -1770.00 180.00
+\i (00:06:13) delete 
+\i (00:06:14) generaledit 
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out -1333.12 199.69
+\i (00:06:14) trapsize 1057
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out -1276.04 199.69
+\i (00:06:14) trapsize 2114
+\i (00:06:14) zoom in 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom in -1990.56 322.30
+\i (00:06:14) trapsize 1057
+\i (00:06:15) pick grid -1999.02 296.93
+\t (00:06:15) last pick:  -2000.00 300.00
+\i (00:06:15) delete 
+\i (00:06:15) generaledit 
+\i (00:06:16) pick grid -1999.02 163.75
+\t (00:06:16) last pick:  -2000.00 160.00
+\i (00:06:16) delete 
+\i (00:06:16) generaledit 
+\i (00:06:16) pick grid -1944.05 271.57
+\t (00:06:16) last pick:  -1940.00 270.00
+\i (00:06:16) delete 
+\i (00:06:16) generaledit 
+\i (00:06:17) pick grid -1925.03 129.93
+\t (00:06:17) last pick:  -1930.00 130.00
+\i (00:06:17) delete 
+\i (00:06:17) generaledit 
+\i (00:06:17) pick grid -1857.38 296.93
+\t (00:06:17) last pick:  -1860.00 300.00
+\i (00:06:18) delete 
+\i (00:06:18) generaledit 
+\i (00:06:18) pick grid -1838.36 155.30
+\t (00:06:18) last pick:  -1840.00 160.00
+\i (00:06:18) delete 
+\i (00:06:18) generaledit 
+\i (00:06:19) pick grid -2060.32 286.36
+\t (00:06:19) last pick:  -2060.00 290.00
+\i (00:06:22) move 
+\t (00:06:22) last pick:  -2060.00 290.00
+\t (00:06:22) Element has no origin, using pick.
+\t (00:06:22) Pick new location for the element(s).
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in -1018.13 248.31
+\i (00:06:23) trapsize 528
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in -1019.18 253.60
+\i (00:06:23) trapsize 264
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out -1116.42 292.18
+\i (00:06:24) trapsize 528
+\i (00:06:28) pick grid -1115.36 290.07
+\t (00:06:28) last pick:  -1120.00 290.00
+\i (00:06:28) generaledit 
+\i (00:06:29) pick grid -1244.31 378.85
+\t (00:06:29) last pick:  -1240.00 380.00
+\i (00:06:30) delete 
+\i (00:06:30) generaledit 
+\i (00:06:31) pick grid -1220.00 73.38
+\t (00:06:31) last pick:  -1220.00 70.00
+\i (00:06:31) delete 
+\i (00:06:31) generaledit 
+\i (00:06:32) zoom in 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom in -765.50 64.93
+\i (00:06:32) trapsize 264
+\i (00:06:32) zoom in 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom in -765.50 64.93
+\i (00:06:32) trapsize 132
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out -755.99 69.16
+\i (00:06:33) trapsize 264
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out -755.98 69.16
+\i (00:06:33) trapsize 528
+\i (00:06:34) zoom in 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom in -785.58 438.05
+\i (00:06:34) trapsize 264
+\i (00:06:35) add line 
+\i (00:06:37) pick grid -1122.23 381.51
+\t (00:06:37) last pick:  -1120.00 380.00
+\t (00:06:37) last pick:  -1118.51 381.03
+\i (00:06:38) pick grid -764.44 382.03
+\t (00:06:38) last pick:  -760.00 380.00
+\t (00:06:38) last pick:  -759.45 381.03
+\t (00:06:38) Merged with existing line. Start next line.
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out -1064.63 426.43
+\i (00:06:38) trapsize 528
+\i (00:06:39) zoom in 1 
+\i (00:06:39) setwindow pcb
+\i (00:06:39) zoom in -1038.20 17.37
+\i (00:06:39) trapsize 264
+\i (00:06:40) pick grid -1119.58 70.75
+\t (00:06:40) last pick:  -1120.00 70.00
+\t (00:06:40) last pick:  -1118.51 72.84
+\i (00:06:46) pick grid -759.15 75.50
+\t (00:06:46) last pick:  -760.00 80.00
+\t (00:06:46) last pick:  -759.45 72.84
+\i (00:06:48) prepopup -738.54 79.20
+\i (00:06:48) done 
+\i (00:06:49) generaledit 
+\i (00:06:49) zoom out 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom out -798.26 97.70
+\i (00:06:49) trapsize 528
+\i (00:06:49) zoom out 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom out -799.31 94.53
+\i (00:06:49) trapsize 1057
+\i (00:06:50) zoom in 1 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) zoom in -697.84 236.17
+\i (00:06:50) trapsize 528
+\i (00:06:51) save 
+\i (00:06:52) fillin yes 
+\t (00:06:54) Symbol 'mio-3260-2.psm' created.
+\i (00:06:54) generaledit 
+\i (00:07:54) pick grid -1190.39 328.13
+\t (00:07:54) last pick:  -1190.00 330.00
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out -913.46 133.64
+\i (00:07:55) trapsize 1057
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out -864.84 154.79
+\i (00:07:55) trapsize 2114
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out -847.93 171.69
+\i (00:07:55) trapsize 4228
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 1598.97 171.70
+\i (00:07:55) trapsize 8456
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in -1868.05 1497.32
+\i (00:07:55) trapsize 4228
+\i (00:07:58) exit 
+\t (00:07:58)     Journal end - Wed Dec 05 09:22:52 2018

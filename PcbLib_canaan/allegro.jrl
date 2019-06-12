@@ -1,0 +1,67 @@
+\t (00:00:24) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:00:24)     Journal start - Fri Mar 22 13:59:03 2019
+\t (00:00:24)         Host=DESKTOP-9BCR1L6 User=ZhangXin Pid=3404 CPUs=4
+\t (00:00:24) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/kendryte.dra
+\i (00:00:25) generaledit 
+\i (00:00:27) open 
+\e (00:00:27) Do you want to save the changes you made to kendryte.dra?
+\i (00:00:29) fillin no 
+\i (00:00:40) fillin "kpu-fanout-02.dra"
+\t (00:00:40) Opening existing design...
+\i (00:00:40) trapsize 2157
+\d (00:00:41) Design opened: F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/kpu-fanout-02.dra
+\i (00:00:41) generaledit 
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 0.39 47.84
+\i (00:00:42) trapsize 1078
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -282.14 47.84
+\i (00:00:42) trapsize 539
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -37.34 51.08
+\i (00:00:43) trapsize 270
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -36.26 51.09
+\i (00:00:43) trapsize 135
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out -79.94 59.19
+\i (00:00:43) trapsize 270
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -79.94 59.18
+\i (00:00:44) trapsize 539
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -79.94 59.19
+\i (00:00:44) trapsize 1078
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -3.99 61.34
+\i (00:00:44) trapsize 539
+\i (00:00:44) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -3.99 61.34
+\i (00:00:45) trapsize 270
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out -2.91 57.57
+\i (00:00:45) trapsize 539
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 7.87 62.96
+\i (00:00:45) trapsize 1078
+\i (00:00:51) open 
+\e (00:00:51) Do you want to save the changes you made to kpu-fanout-02.dra?
+\i (00:00:52) fillin no 
+\i (00:01:18) fillin "F:\Documents\baidu_demo\lib_pcb\bga144-065-0808.dra"
+\i (00:01:18) cd "F:\Documents\baidu_demo\lib_pcb"
+\t (00:01:18) Opening existing design...
+\i (00:01:18) trapsize 938
+\t (00:01:19)     Journal end - Fri Mar 22 13:59:58 2019

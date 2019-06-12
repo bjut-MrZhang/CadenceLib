@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tfm_110_02_d_wt.dra                           )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Dec 04 12:06:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/workspace/Cadence/CadenceLib/Pcblib
+    Name      = tfm_110_02_d_wt.psm
+    User      = httr
+    Machine   = HTTR-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

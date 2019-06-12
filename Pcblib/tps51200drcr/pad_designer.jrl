@@ -1,0 +1,9 @@
+\t (00:00:19) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:19)     Journal start - Tue Dec 11 14:29:32 2018
+\t (00:00:19)         Host=HTTR-PC User=httr Pid=10384 CPUs=8
+\t (00:00:19) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:19) 
+\i (00:00:21) FORM padedit layers  
+\i (00:00:22) FORM padedit crossbox YES 
+\i (00:00:23) pse_exit
+\t (00:00:23)     Journal end - Tue Dec 11 14:29:37 2018

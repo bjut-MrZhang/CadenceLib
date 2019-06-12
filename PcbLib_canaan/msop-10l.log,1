@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MSOP-10L.dra                                  )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Feb 22 10:23:41 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/Workspace/Cadence/CadenceLib/PcbLib_canaan
+    Name      = msop-10l.psm
+    User      = AD
+    Machine   = DESKTOP-AH2D8O3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

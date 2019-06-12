@@ -1,0 +1,8 @@
+Tolerance           1%    5%    10%   15%    20%
+TYPE                陶瓷电容   贴片电阻
+Voltage            6.3V 10V 16V 25V 50V
+Description
+
+
+描述\t类型\t位号\t值\t封装\t精度\t耐压\t功率\t数量
+{Description}\t{TYPE}\t{Reference}\t{Value}\t{PCB footprint}\t{Tolerance}\t{Voltage}\t{Power Consumption}\t{Quantity}

@@ -1,0 +1,43 @@
+\t (00:07:21) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:07:21)     Journal start - Thu Feb 21 14:25:40 2019
+\t (00:07:21)         Host=DESKTOP-AH2D8O3 User=AD Pid=9720 CPUs=4
+\t (00:07:21) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:07:21) 
+\d (00:07:21) Design opened: F:/Workspace/Cadence/CadenceLib/Pcblib/SC0201.dra
+\i (00:07:22) generaledit 
+\i (00:07:25) open 
+\e (00:07:25) Do you want to save the changes you made to SC0201.dra?
+\i (00:07:26) fillin no 
+\i (00:07:49) fillin "SC0201.psm"
+\t (00:07:49) Opening existing design...
+\i (00:07:51) fillin yes 
+\e (00:07:51) This design is a padstack or symbol database which is not supported by this editor.
+\i (00:07:52) fillin confirm
+\t (00:07:52) Starting new design...
+\i (00:07:52) trapsize 568
+\i (00:07:52) trapsize 557
+\i (00:07:52) trapsize 568
+\i (00:07:52) trapsize 572
+\i (00:07:52) trapsize 764
+\i (00:07:52) trapsize 1059
+\i (00:07:55) fillin "menu_cancel"
+\i (00:07:55) generaledit 
+\i (00:14:44) xdehilite 
+\i (00:14:44) xname_flush 
+\i (00:14:44) done 
+\i (00:14:44) xhilite 
+\i (00:14:44) xname_flush 
+\i (00:14:44) done 
+\i (00:14:44) generaledit 
+\i (00:14:45) xdehilite 
+\i (00:14:45) xname_flush 
+\i (00:14:45) done 
+\i (00:14:45) generaledit 
+\i (00:14:50) open 
+\e (00:14:50) Do you want to save the changes you made to unnamed?
+\i (00:14:51) fillin no 
+\i (00:14:59) fillin "F:\Documents\kendryte-test-V0_2-20181203_Brd\kendryte-test-V0_2-20181203_Brd\kendryte-test-V0_2-20181203.brd"
+\i (00:14:59) cd "F:\Documents\kendryte-test-V0_2-20181203_Brd\kendryte-test-V0_2-20181203_Brd"
+\t (00:14:59) Opening existing design...
+\i (00:15:00) trapsize 10193
+\t (00:15:00)     Journal end - Thu Feb 21 14:33:18 2019

@@ -1,0 +1,50 @@
+**** Tlsim Version 16.2 ****
+
+**** Tlsim command line ****
+ tlsim -r 0.050000 -o waveforms.sim -dl delay.dl -dst distortion.dst -log tlsim.log -ocycle cycle.msm main.spc
+
+
+Number of Nodes in this circuit = 17
+
+
+Statistics on N-line elements:
+ Number of 'n' type multi-conductor elements = 1
+ Type-of-N-element  #elms Max_Length TotalLength
+
+ 1-line-N-elm     1   1e-006    1e-006
+ Total Interconnect Length = 1e-006
+ Total Coupled Length = 0
+
+ Following is some statistics on Model usage
+   Model-Type      Model-Name     Number-of-Models-in-this-circuit
+
+   bdrvr         CDSDefaultOutput_Typ               1 
+   bdrvr         CDSDefaultInput_Typ               1 
+  No of 'Bdrvr' type model instance = 2
+
+ Time Step at Start = 5e-011
+
+
+
+ Simulation will start at t=0 and end at t=3.055e-008. 
+
+
+
+ Cycle/Xtalk Measurements Completed
+
+
+
+ Simulation Complete 
+
+
+**** Transient Simulation Statistics ****
+
+    Number Of time step solutions = 546
+
+**** Tlsim Run Times ****
+
+    Start time = Fri Aug 31 11:01:01 2018
+
+    Finish time = Fri Aug 31 11:01:02 2018
+
+    Elapsed time = 0 hours, 0 minutes, and 1 seconds
