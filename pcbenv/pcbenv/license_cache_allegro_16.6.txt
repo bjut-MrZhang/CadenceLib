@@ -1,0 +1,26 @@
+# SoftShare license cache file. Do not modify; automatically generated.
+# Improves tool startup performance.
+Allegro_PCB_SI_630		YES
+PCB_SI_MultiGigabit		YES
+PowerIntegrity		YES
+Allegro_FPGA_System_2FPGA		YES
+Allegro_FPGA_System_Planner_L		YES
+Allegro_PCB_RF		YES
+Allegro_PCB_Design_GXL		YES
+Allegro_PCB_PDN_Analysis		YES
+Allegro_performance		YES
+Allegro_PCB_Design_Planner		YES
+Allegro_PCB_Partitioning		YES
+PCB_librarian_expert		YES
+Allegro_PCB_Mini_Option		YES
+Allegro_PCB_Global_Route_Env		YES
+Allegro_FPGA_System_Planner_XL		YES
+Allegro_PCB_Intercon_Feas		YES
+Allegro_PCB_HighSpeed_Option		YES
+OrCAD_PCB_Designer		YES
+Allegro_FPGA_System_Plan_GXL		YES
+SPECCTRAQuest_SI_expert		YES
+OrCAD_PCB_Designer_PSpice		YES
+OrCAD_PCB_Editor_Basics		YES
+PCB_design_expert		YES
+PCB_design_studio		YES

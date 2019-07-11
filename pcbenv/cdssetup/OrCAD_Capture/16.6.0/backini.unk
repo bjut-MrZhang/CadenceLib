@@ -1,0 +1,10 @@
+[Part Management]
+Configuration File=$CDSROOT\tools\Capture\Samples\BENCHACC.DBC
+DemoConfiguration File=$CDSROOT\tools\Capture\Samples\DemoBENCHACC.DBC
+[Footprint Viewer Type]
+Type=Allegro
+[Allegro Footprints]
+Dir0=d:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols
+[Symbol Selector Configured Libraries]
+Library0=d:\Cadence\SPB_16.6\tools\Capture\Library\PSpice\source.olb
+Number of Configured Libraries=1

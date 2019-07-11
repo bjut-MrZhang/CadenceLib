@@ -1,0 +1,23 @@
+source $TELENV
+
+alias Del delete
+funckey ' ' iangle 90
+funckey 'W' Add Connect
+funckey 'w' Add Connect
+funckey 'M' Move
+funckey 'm' Move
+funckey 's' Slide
+funckey 'S' Slide
+alias Esc done
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set padpath = F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/
+set psmpath = F:/Workspace/Cadence/CadenceLib/PcbLib_canaan/
+set steppath = E:/workspace/UG/STP/
+set allegro_dynam_timing = on
+set allegro_etch_length_on
+set showmeasure_altunits = millimeters
+set no_shape_fill

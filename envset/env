@@ -1,0 +1,387 @@
+1#
+# ALLEGRO GLOBAL Environment file
+#
+# $Header: /vobs/psd_backend_data/data/environment/env /main/182 12-Aug-03.17:39:05 fxf $
+
+# The following variables are set by the software if not preset by user:
+#     CDS_SITE, ALLEGRO_SITE, TELENV, ALLEGRO_INSTALL_DIR, 
+#     ALLEGRO_INSTALL_TOOLS, ALLEGRO_INSTALL_ROOT, ALLEGRO_TYPE,
+#     __UNIX (if UNIX), _PROGRAM, HOME, LOCALPATH, LOCALENV
+# Variable names are case insensitive
+
+#--------------------------------------------------------------------
+# System Variables
+set GLOBAL = $ALLEGRO_INSTALL_DIR/text
+
+# change from LIBPATH because it conflicts with IBM's shared library
+# environment variable
+set ALIBPATH = $ALLEGRO_INSTALL_DIR/pcb_lib
+
+set COMPLIBPATH = $ALLEGRO_INSTALL_DIR/allegrolib
+
+set GLOBALPATH = . $GLOBAL
+
+# Allegro Data Services Variable
+set ADSPATH = $GLOBALPATH
+
+# Present for compatiblity with older versions of Allegro.
+ifnvar ALLEGRO_SITE "set ALLEGRO_SITE ."
+
+#--------------------------------------------------------------------
+# Configuration variables (Don't change)
+set BMPPATH = . $ALLEGRO_SITE/icons $GLOBAL/icons
+set FORMPATH = . $ALLEGRO_SITE/forms $GLOBAL/forms
+set MENUPATH = . $ALLEGRO_SITE/menus $GLOBAL/cuimenus
+
+set UNITS = $GLOBAL/units.dat
+set MATERIALPATH = . $LOCALENV $ALLEGRO_SITE $GLOBAL
+
+#Configuration paths
+set PRFEDITPATH = . configure/prfedit $LOCALENV/configure/prfedit $ALLEGRO_INSTALL_DIR/configure/prfedit
+set BATCHHELPPATH = . $ALLEGRO_INSTALL_DIR/batchhelp
+set SPROUTEPATH = $ALLEGRO_INSTALL_DIR/configure/sproute
+
+set HELPPATH = . $ALLEGRO_INSTALL_DIR/help $GLOBAL/help
+set PDFPATH = . $ALLEGRO_INSTALL_DIR/help/pdf
+
+# Graphics demo env
+set IMAGEPATH = . $ALLEGRO_INSTALL_DIR/examples/image
+
+#--------------------------------------------------------------------
+# Drawing font
+set VECTORFONTPATH = . $GLOBAL
+set ANSIFONT = ansifont
+set KANJIFONTPATH = . $GLOBAL/fonts/kanji
+set KANJIFONT1 = kanjifont1
+set KANJIFONT2 = kanjifont2
+
+#--------------------------------------------------------------------
+# Display Variables
+
+set display_backingstore  on
+
+# disable repair under ratsnests 
+set display_norepair rats 
+set display_shapefill_analysis 1
+
+#--------------------------------------------------------------------
+#--------------------------------------------------------------------
+set compalib = $ALIBPATH/symbols $COMPLIBPATH/symbols
+set topfilelib = $ALIBPATH/templates $COMPLIBPATH/templates
+set signal_install_dir = $ALLEGRO_INSTALL_DIR/signal
+set signal_optlib_dir = $signal_install_dir/optlib
+
+# HDL Supported Design Library Search Path Variables
+set MODULEPATH = . $ALLEGRO_SITE/modules
+set TILEPATH = . $ALLEGRO_SITE/modules
+set PADPATH = E:/12YUE/112782-RAD/LIB/1224
+set PSMPATH = E:/12YUE/112782-RAD/LIB/1224
+set DEVPATH = E:/12YUE/112782-RAD/LIB/1224
+set TOPOLOGY_TEMPLATE_PATH = . templates .. ../templates $ALLEGRO_SITE/topology $topfilelib
+
+# SigNoise data installation directory
+set SIGNOISEPATH = . $LOCALENV $ALLEGRO_SITE/signal $signal_install_dir $signal_optlib_dir $GLOBAL
+
+#--------------------------------------------------------------------
+# Non-HDL Supported Design Search Path Variables
+set ARTPATH = . ..
+set APTPATH = . ..
+set CLIPPATH = .
+set DCLPATH = . .. $ALIBPATH $COMPLIBPATH
+set DEVPATH = . devices .. ../devices $ALLEGRO_SITE/devices $ALIBPATH/devices $COMPLIBPATH/devices
+set DFAAUDITPATH = . $ALLEGRO_SITE/assembly $ALLEGRO_INSTALL_DIR/assembly
+set NCDPATH = . .. $ALLEGRO_SITE/nclegend $GLOBAL/nclegend
+set SCRIPTPATH = . $ALLEGRO_SITE/scripts $GLOBAL/script
+set TEXTPATH = . $ALLEGRO_SITE/extracta $GLOBAL/views
+set VIEWPATH = . $ALLEGRO_SITE/views
+set XTALK_TABLE_PATH = . xtalk_tables .. ../xtalk_tables $ALLEGRO_SITE/xtalk $ALIBPATH/xtalk_tables
+set WIZARD_TEMPLATE_PATH = . .. $ALLEGRO_INSTALL_DIR/pcb_lib/symbols/template 
+
+# System Configuration .scf file search path
+set SCFPATH = . scfs .. ../scfs 
+
+# diff pair overide variable set for 14.2 so etch edit uses the diff
+#  pair primary separation for line to line space between two nets of the
+#  same diff pair.  Remove this for 15.0.
+set drc_diff_pair_overide 0
+
+# Display the headsup meter in a fixed position in the control panel.
+set allegro_dynam_timing_fixedpos
+
+
+#--------------------------------------------------------------------
+# Aliases
+alias a alias
+#--------------------------------------------------------------------
+# alias
+# May use function keys F2-F12, most Alpha-numberic keys with control 
+# modifier (although Control - C, V and X are reserved for copy, paste and cut)
+# and Navigation Keys (Home, Up arrow, Esc, etc.) These items may be modifed
+# by the following:
+#     Modifier 		Indicator		Example
+#       Shift		   S			 SF2	
+#	Control  	   C (function keys)	 CF2
+#	Control 	   ~ (alpha-numbic)	 ~N
+#	Meta		   A			 AF2
+# Modifiers may be combined. Some examples: 
+#	CSF2		  Control-Shift F2
+#	ASF2		  Meta-Shift F2
+#	CAF2		  Control-Meta F2
+#       CASF2		  Control-Meta-Shift F2
+#	~SZ		  Control-Shift Z
+#	SUp		  Shift-Up Arrow
+#	CUp		  Control-Up Arrow
+#
+# funckey
+#  use the funckey when you wish to have alphanumeric keys operate
+#  like the Function keys when the cursor is in the Allegro canvas.
+# 
+#  Example -- following starts the move command without a Enter key
+#     funckey m move
+
+#--------------------------------------------------------------------
+# Bind roam operations to function keys
+set roamInc = 96
+alias Up        "roam y -$roamInc"
+alias Down      "roam y $roamInc"
+alias Left      "roam x -$roamInc"
+alias Right     "roam x $roamInc"
+
+#--------------------------------------------------------------------
+# NEW STYLE FUNCTION KEY ALIASES
+# F1 is normally reserved by the system for Help so we don't use it
+alias F2 unset acon_oldcmd
+alias F3 delay tune
+alias F4 cancel
+alias F5 show element
+alias F6 property nets
+alias F7 vertex
+alias F8 cut_area_cline_segs
+alias F9 move
+alias F10 angle 90
+alias F11 mirror
+alias F12 show measure
+alias CF12 quickplace
+alias Pgup zoom in
+alias Pgdown zoom out
+alias Insert pop swap
+alias Home slide
+alias Del delete
+alias End add connect
+alias SF5 redisplay
+alias SF9 save_as temp
+alias SPgup void all
+alias SEnd   iy -40
+alias SInsert shape select
+alias SLeft  unrats net
+alias SDelete  ix -40
+alias SPgdown ix 40
+alias SHome iy 40
+alias SPgup pop net list
+alias ~?     change
+alias SF12 swap functions 
+alias SF11 swap components
+alias CF11 copy
+alias SF10 swap pins
+alias SF3 shell explorer .
+alias CF10 groupedit
+alias CF8 delete cut
+alias CF9 done
+alias F6 spin
+alias SUp rats component
+alias SDown unrats component
+alias SLeft unrats net
+alias SRight rats net
+alias B undo
+alias CUp iy 39.37
+alias CDown iy -39.37
+alias CLeft ix -39.37
+alias CRight ix 39.37
+alias CHome iy 50
+alias CEnd iy -50
+alias CDel ix -50
+alias CPgdown ix 50 
+alias  ~P   ix 31.5
+alias  ~O    ix -31.5
+alias  ~U   iy 31.5
+alias  ~Y    iy -31.5
+
+alias Up      iy 0.5
+alias Down    iy -0.5
+alias Left    ix -0.5
+alias Right   ix 0.5
+
+alias  ~H     ix 35
+alias  ~F     ix -35
+alias  ~T     iy 35
+alias  ~G     iy -35
+
+alias  ~L     ix 60
+alias  ~J     ix -60
+alias  ~I     iy 60
+alias  ~K     iy -60
+
+alias  ~W     ix 5
+alias  ~Q     ix -5
+alias  ~R     iy -5
+alias  ~E     iy 5
+alias ~A  toggle
+alias p quickplace
+alias ~S save
+#--------------------------------------------------------------------
+# OTHER ALIASES	
+alias edps padedit
+alias rps "replace padstack"
+alias unplrp report unplaced
+alias x pick
+alias y pick l
+alias ix ipick
+alias iy ipick 0
+alias reopen 'open -q $module'
+
+# autoroam
+alias sar set pcb_autoroam
+alias uar unset pcb_autoroam
+
+alias reopen 'open -q $module'
+alias bubset 'settoggle shove_mode Off "Hug preferred" "Shove preferred"; options bubble_space $shove_mode'
+alias ~B bubset
+alias smoothset 'settoggle smooth_mode Off Minimal Full; options smooth_level $smooth_mode'
+alias ~C smoothset
+
+
+#--------------------------------------------------------------------
+# COMMAND DEFAULTS
+# allow slide to work on arcs by default
+
+# Compatibility aliases
+alias window    zoom
+alias hilite    highlight
+alias dehilite  dehighlight
+alias zz "replay cursor_intinte"
+alias z "replay cursor_cross"
+alias g0.1 replay "d:/scr/g0.1.scr"
+alias g0.5 replay "d:/scr/g0.5.scr"
+alias g1 replay "d:/scr/g1.scr"
+alias g5 replay "d:/scr/g5.scr"
+alias g10 replay "d:/scr/g10.scr"
+alias g15 replay "d:/scr/g15.scr"
+alias g20 replay "d:/scr/g20.scr"
+alias g25 replay "d:/scr/g25.scr"
+alias g50 replay "d:/scr/g50.scr"
+alias g0.12 replay "d:/scr/g0.12.scr"
+alias g0.13 replay "d:/scr/g0.13.scr"
+alias g0.15 replay "d:/scr/g0.15.scr"
+alias g6 replay "d:/scr/g6.scr"
+alias g7 replay "d:/scr/g7.scr"
+alias g8 replay "d:/scr/g8.scr"
+alias g4 replay "d:/scr/g4.scr"
+alias p replay "d:/scr/p.scr"
+alias 8 replay "d:/scr/8.scr"
+alias c replay "d:/scr/c.scr"
+alias m replay "d:/scr/m.scr"
+alias d replay "d:/scr/d.scr"
+alias f replay "d:/scr/f.scr"
+alias  t   replay d:/scr/st.scr
+alias  b   replay d:/scr/sb.scr
+alias al replay "d:/scr/all.scr"
+
+alias 10 replay "d:/scr/10.scr"
+alias ab replay "d:/scr/ab.scr"
+alias reset "replay reset"
+alias ~1 g1
+alias ~2 g5
+alias ~3 g10
+alias ~4 g20
+alias ~5 g25
+alias dong replay d:/scr/dong.scr
+alias jing replay d:/scr/jing.scr
+alias ~] dong 
+alias ~[ jing
+alias RESET "replay reset"
+alias ~R "replay rotate"
+alias er "replay err"
+alias scr "replay scr"
+alias skt "replay skt"
+alias skb "replay skb"
+alias ery "replay erry"
+
+alias l6 "replay films6"
+alias L6 "replay films6"
+alias l4 "replay films4"
+alias L4 "replay films4"
+alias ~M shape void element
+alias F2 find_shape_voids
+funckey CF7 replay "d:/scr/power163.scr"
+
+funckey j replay "d:/scr/c10.scr"
+funckey q replay "d:/scr/pro.scr"
+funckey + replay "d:/scr/777.scr"
+funckey s replay "d:/scr/444.scr"
+funckey d replay "d:/scr/dd.scr"
+funckey 0 replay "d:/scr/00.scr"
+funckey w replay "d:/scr/pros.scr"
+funckey 2 replay "d:/scr/ex.scr"
+funckey 1 replay "d:/scr/in.scr"
+funckey e replay "d:/scr/color.scr"
+funckey k replay "d:/scr/c12.scr"
+funckey o replay "d:/scr/c15.scr"
+funckey 0 replay "d:/scr/00.scr"
+funckey p replay "d:/scr/c20.scr"
+funckey ] replay "d:/scr/th.scr"
+funckey [ replay "d:/scr/tx.scr"
+funckey l replay "d:/scr/out.scr"
+funckey n replay "d:/scr/zcopy.scr"
+funckey m replay "d:/scr/mergeshapes.scr"
+funckey , replay "d:/scr/tpcopy.scr"
+funckey . replay "d:/scr/tpde.scr"
+funckey *8 replay "d:/scr/88.scr"
+funckey 888 replay "d:/scr/8888.scr"
+funckey /9 replay D:\scr\place.scr
+funckey /8 replay "d:/scr/mokuai.scr"
+funckey u replay "d:/scr/unconnect.scr"
+funckey 9 replay "d:/scr/silkbot.scr"
+funckey y replay d:/scr/jiegouy.scr
+funckey r replay d:/scr/jiegoun.scr
+funckey z "pick_to_grid -cuisor;settoggle rband_angle_offset 10 -10 0;echo rband_angle_offset = $rband_angle_offset"
+funckey v Via_Net
+funckey l Shape_Net
+funckey /7 Find_DRC
+funckey h replay d:/scr/cut.scr
+
+
+
+source -q $ALLEGRO_SITE/site.env
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set autosave_time = 10
+set autosave
+set autosave_name = autosave
+set clip_filebrowser
+set clippath = E:\work\106415-switch\lib
+set textpath = $textpath
+set devpath = E:\WORK\Ä£°åÎÄ¼þ\
+set PADPATH = E:/12YUE/112782-RAD/LIB/1224
+set PSMPATH = E:/12YUE/112782-RAD/LIB/1224
+set DEVPATH = E:/12YUE/112782-RAD/LIB/1224
+unset display_nolinewidth
+unset display_nocolor_dynamics
+set display_norepair = rats
+set display_backingstore = on
+set display_nosaved_geometry = both
+unset display_shapefill
+set display_shapefill_analysis = 1
+unset display_manual_colorpriority
+unset display_drcfill
+set acon_oldhlt = all
+set allegro_dynam_timing = on
+set no_zoom_to_object
+set no_dragpopup
+set noswapripup
+set logic_edit_enabled
+unset highlight_shape_net
+set noshow_current_selections
+set pcb_cursor = cross
